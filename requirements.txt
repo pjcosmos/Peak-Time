@@ -1,0 +1,16 @@
+# Web App
+streamlit==1.31.0
+
+# Data Analysis
+pandas==2.2.0
+
+# Data Collection
+selenium==4.18.1
+beautifulsoup4==4.12.3
+pytrends==4.9.2
+google-api-python-client==2.120.0
+instaloader==4.11
+
+# Environment & Database
+python-dotenv==1.0.1
+mysql-connector-python==8.3.0
