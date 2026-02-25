@@ -1,0 +1,344 @@
+[
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "하이닉스 주가",
+        "avg_view_count": 4491.0,
+        "avg_like_count": 419.7,
+        "avg_comment_count": 5.7,
+        "engagement_rate": 9.47,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "문상민",
+        "avg_view_count": 792023.7,
+        "avg_like_count": 46290.7,
+        "avg_comment_count": 400.0,
+        "engagement_rate": 5.9,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "에스팀",
+        "avg_view_count": 7985.3,
+        "avg_like_count": 412.7,
+        "avg_comment_count": 45.3,
+        "engagement_rate": 5.74,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "홍자",
+        "avg_view_count": 26137.7,
+        "avg_like_count": 881.7,
+        "avg_comment_count": 413.3,
+        "engagement_rate": 4.95,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "액스비스",
+        "avg_view_count": 12225.3,
+        "avg_like_count": 567.7,
+        "avg_comment_count": 36.3,
+        "engagement_rate": 4.94,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "비트코인",
+        "avg_view_count": 5411.7,
+        "avg_like_count": 215.7,
+        "avg_comment_count": 16.0,
+        "engagement_rate": 4.28,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "category": "기후",
+        "keyword": "날씨",
+        "avg_view_count": 5478.7,
+        "avg_like_count": 179.0,
+        "avg_comment_count": 11.7,
+        "engagement_rate": 3.48,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "케이뱅크 공모주",
+        "avg_view_count": 32763.0,
+        "avg_like_count": 1019.3,
+        "avg_comment_count": 47.7,
+        "engagement_rate": 3.26,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "노시환",
+        "avg_view_count": 150084.7,
+        "avg_like_count": 2889.0,
+        "avg_comment_count": 1319.7,
+        "engagement_rate": 2.8,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "주식",
+        "avg_view_count": 86925.0,
+        "avg_like_count": 1630.0,
+        "avg_comment_count": 357.7,
+        "engagement_rate": 2.29,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "에어로케이",
+        "avg_view_count": 6051.0,
+        "avg_like_count": 95.7,
+        "avg_comment_count": 34.0,
+        "engagement_rate": 2.14,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "레알 에스파냐 대 엘에이 fc",
+        "avg_view_count": 200058.3,
+        "avg_like_count": 4010.7,
+        "avg_comment_count": 225.7,
+        "engagement_rate": 2.12,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "기후",
+        "keyword": "내일 날씨",
+        "avg_view_count": 7991.7,
+        "avg_like_count": 148.3,
+        "avg_comment_count": 8.3,
+        "engagement_rate": 1.96,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "인테르",
+        "avg_view_count": 79092.7,
+        "avg_like_count": 1034.3,
+        "avg_comment_count": 294.3,
+        "engagement_rate": 1.68,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "유튜브 문제가 발생했습니다",
+        "avg_view_count": 28194.3,
+        "avg_like_count": 280.3,
+        "avg_comment_count": 192.0,
+        "engagement_rate": 1.68,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "김태리",
+        "avg_view_count": 60132.7,
+        "avg_like_count": 884.3,
+        "avg_comment_count": 58.0,
+        "engagement_rate": 1.57,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "mls",
+        "avg_view_count": 819268.0,
+        "avg_like_count": 11242.7,
+        "avg_comment_count": 1115.3,
+        "engagement_rate": 1.51,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "금잔디",
+        "avg_view_count": 180208.7,
+        "avg_like_count": 1918.7,
+        "avg_comment_count": 728.7,
+        "engagement_rate": 1.47,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "기후",
+        "keyword": "날씨예보",
+        "avg_view_count": 16919.0,
+        "avg_like_count": 221.0,
+        "avg_comment_count": 27.7,
+        "engagement_rate": 1.47,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "기후",
+        "keyword": "일기예보",
+        "avg_view_count": 11633.0,
+        "avg_like_count": 141.7,
+        "avg_comment_count": 27.3,
+        "engagement_rate": 1.45,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "기후",
+        "keyword": "부산날씨",
+        "avg_view_count": 3987.6,
+        "avg_like_count": 51.0,
+        "avg_comment_count": 5.6,
+        "engagement_rate": 1.42,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "엔화",
+        "avg_view_count": 27395.0,
+        "avg_like_count": 318.3,
+        "avg_comment_count": 68.3,
+        "engagement_rate": 1.41,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "기후",
+        "keyword": "대구 날씨",
+        "avg_view_count": 2464.7,
+        "avg_like_count": 28.0,
+        "avg_comment_count": 3.0,
+        "engagement_rate": 1.26,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "챔피언스리그",
+        "avg_view_count": 80576.7,
+        "avg_like_count": 770.7,
+        "avg_comment_count": 195.3,
+        "engagement_rate": 1.2,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "엘에이 fc 대 인터 마이애미",
+        "avg_view_count": 1628720.0,
+        "avg_like_count": 16651.3,
+        "avg_comment_count": 2201.3,
+        "engagement_rate": 1.16,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "부산찬란한 너의 계절에",
+        "avg_view_count": 15013707.0,
+        "avg_like_count": 169726.0,
+        "avg_comment_count": 2466.7,
+        "engagement_rate": 1.15,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "신영자",
+        "avg_view_count": 85214.3,
+        "avg_like_count": 763.0,
+        "avg_comment_count": 93.7,
+        "engagement_rate": 1.01,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "keyword": "김인호",
+        "avg_view_count": 112984.3,
+        "avg_like_count": 992.7,
+        "avg_comment_count": 108.0,
+        "engagement_rate": 0.97,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "토트넘 대 아스널",
+        "avg_view_count": 802490.7,
+        "avg_like_count": 5851.0,
+        "avg_comment_count": 1742.3,
+        "engagement_rate": 0.95,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "맨 시티 대 뉴캐슬",
+        "avg_view_count": 1600081.4,
+        "avg_like_count": 13218.3,
+        "avg_comment_count": 426.7,
+        "engagement_rate": 0.85,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "정동원",
+        "avg_view_count": 1365804.9,
+        "avg_like_count": 10975.8,
+        "avg_comment_count": 619.1,
+        "engagement_rate": 0.85,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "psg 대 메스",
+        "avg_view_count": 390982.3,
+        "avg_like_count": 2356.0,
+        "avg_comment_count": 859.7,
+        "engagement_rate": 0.82,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "스포츠",
+        "keyword": "울브스 대 아스널",
+        "avg_view_count": 256116.0,
+        "avg_like_count": 1598.0,
+        "avg_comment_count": 463.7,
+        "engagement_rate": 0.8,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "아너 그녀들의 법정",
+        "avg_view_count": 19083.7,
+        "avg_like_count": 121.7,
+        "avg_comment_count": 10.7,
+        "engagement_rate": 0.69,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "파반느",
+        "avg_view_count": 88001.0,
+        "avg_like_count": 463.7,
+        "avg_comment_count": 51.7,
+        "engagement_rate": 0.59,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "category": "엔터테인먼트",
+        "keyword": "윤영경",
+        "avg_view_count": 14133.0,
+        "avg_like_count": 49.3,
+        "avg_comment_count": 13.3,
+        "engagement_rate": 0.44,
+        "temperature_status": "🧊 조회수 위주"
+    },
+    {
+        "category": "기후",
+        "keyword": "강풍 경보",
+        "avg_view_count": 36627.3,
+        "avg_like_count": 143.0,
+        "avg_comment_count": 11.0,
+        "engagement_rate": 0.42,
+        "temperature_status": "🧊 조회수 위주"
+    },
+    {
+        "category": "기후",
+        "keyword": "울산날씨",
+        "avg_view_count": 2399.3,
+        "avg_like_count": 0.0,
+        "avg_comment_count": 0.0,
+        "engagement_rate": 0.0,
+        "temperature_status": "🧊 조회수 위주"
+    }
+]

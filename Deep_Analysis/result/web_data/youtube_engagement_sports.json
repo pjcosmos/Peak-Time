@@ -1,0 +1,82 @@
+[
+    {
+        "keyword": "노시환",
+        "avg_view_count": 150084.7,
+        "avg_like_count": 2889.0,
+        "avg_comment_count": 1319.7,
+        "engagement_rate": 2.8,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "레알 에스파냐 대 엘에이 fc",
+        "avg_view_count": 200058.3,
+        "avg_like_count": 4010.7,
+        "avg_comment_count": 225.7,
+        "engagement_rate": 2.12,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "인테르",
+        "avg_view_count": 79092.7,
+        "avg_like_count": 1034.3,
+        "avg_comment_count": 294.3,
+        "engagement_rate": 1.68,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "mls",
+        "avg_view_count": 819268.0,
+        "avg_like_count": 11242.7,
+        "avg_comment_count": 1115.3,
+        "engagement_rate": 1.51,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "챔피언스리그",
+        "avg_view_count": 80576.7,
+        "avg_like_count": 770.7,
+        "avg_comment_count": 195.3,
+        "engagement_rate": 1.2,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "엘에이 fc 대 인터 마이애미",
+        "avg_view_count": 1628720.0,
+        "avg_like_count": 16651.3,
+        "avg_comment_count": 2201.3,
+        "engagement_rate": 1.16,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "토트넘 대 아스널",
+        "avg_view_count": 802490.7,
+        "avg_like_count": 5851.0,
+        "avg_comment_count": 1742.3,
+        "engagement_rate": 0.95,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "맨 시티 대 뉴캐슬",
+        "avg_view_count": 1600081.4,
+        "avg_like_count": 13218.3,
+        "avg_comment_count": 426.7,
+        "engagement_rate": 0.85,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "psg 대 메스",
+        "avg_view_count": 390982.3,
+        "avg_like_count": 2356.0,
+        "avg_comment_count": 859.7,
+        "engagement_rate": 0.82,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "울브스 대 아스널",
+        "avg_view_count": 256116.0,
+        "avg_like_count": 1598.0,
+        "avg_comment_count": 463.7,
+        "engagement_rate": 0.8,
+        "temperature_status": "🍃 가벼운 관심"
+    }
+]

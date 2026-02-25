@@ -1,0 +1,504 @@
+{
+    "기후": {
+        "날씨": [
+            {
+                "article_id": 1,
+                "run_id": 1,
+                "keyword_id": 1,
+                "title": "경상권 비 소식…낮 최고 16도까지 기온 올라 포근[오늘날씨]",
+                "url": "https://www.newsis.com/view/NISX20260224_0003525052",
+                "publisher": "뉴시스",
+                "published_at": "2026-02-25 01:07",
+                "image_url": "https://img1.newsis.com/2026/02/24/NISI20260224_0021185537_web.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "울산날씨": [
+            {
+                "article_id": 2,
+                "run_id": 1,
+                "keyword_id": 2,
+                "title": "[내일날씨] 한낮 기온 최고 16도 포근-중부지방과 전라권, 경북 내륙 일...",
+                "url": "http://www.econonews.co.kr/news/articleView.html?idxno=428772",
+                "publisher": "이코노뉴스",
+                "published_at": "2026-02-25 13:02",
+                "image_url": "https://cdn.econonews.co.kr/news/thumbnail/202602/428772_364101_22_v150.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "강풍 경보": [
+            {
+                "article_id": 3,
+                "run_id": 1,
+                "keyword_id": 3,
+                "title": "청주공항 제주노선 5편 결항…\"제주공항강풍경보\"",
+                "url": "https://www.newsis.com/view/NISX20260224_0003524333",
+                "publisher": "뉴시스",
+                "published_at": "2026-02-24 13:54",
+                "image_url": "https://img1.newsis.com/2025/05/09/NISI20250509_0020802542_web.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "부산날씨": [
+            {
+                "article_id": 4,
+                "run_id": 1,
+                "keyword_id": 4,
+                "title": "[날씨] 낮 포근하지만 일교차 유의…건조특보 확대",
+                "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008454834&plink=ORI&cooper=NAVER",
+                "publisher": "SBS NEWS",
+                "published_at": "2026-02-25 12:43",
+                "image_url": "https://img.sbs.co.kr/newimg/news/20260225/202160026_1280.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "날씨예보": [
+            {
+                "article_id": 5,
+                "run_id": 1,
+                "keyword_id": 5,
+                "title": "[날씨] 오늘(수) 한낮 포근, 일교차 커…안개/건조 유의",
+                "url": "https://science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202602250637260001",
+                "publisher": null,
+                "published_at": null,
+                "image_url": null,
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "내일 날씨": [
+            {
+                "article_id": 6,
+                "run_id": 1,
+                "keyword_id": 6,
+                "title": "[날씨] 가까워진 봄...한낮 맑고 포근하지만 일교차↑",
+                "url": "https://www.ytn.co.kr/_ln/0108_202602251308207485",
+                "publisher": "YTN",
+                "published_at": "2026-02-25 13:08",
+                "image_url": "https://image.ytn.co.kr/general/jpg/2026/0225/202602251308207485_t.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "일기예보": [
+            {
+                "article_id": 7,
+                "run_id": 1,
+                "keyword_id": 7,
+                "title": "3월 초까지 '큰 추위' 없다…찬 공기 물러나고 낮 최고 16도 '포근'",
+                "url": "https://www.news1.kr/society/environment/6082430",
+                "publisher": "뉴스1",
+                "published_at": "2026-02-25 13:00",
+                "image_url": "https://i3n.news1.kr/system/photos/2026/2/24/7765074/high.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "대구 날씨": [
+            {
+                "article_id": 8,
+                "run_id": 1,
+                "keyword_id": 8,
+                "title": "[날씨]낮부터 추위 풀려 온화…서울 15도",
+                "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000516141",
+                "publisher": "채널A",
+                "published_at": "2026-02-25 13:12",
+                "image_url": "https://image.ichannela.com/images/channela/2026/02/25/000002967001/00000296700120260225132042839.webp",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ]
+    },
+    "엔터테인먼트": {
+        "유튜브 문제가 발생했습니다": [
+            {
+                "article_id": 9,
+                "run_id": 2,
+                "keyword_id": 9,
+                "title": "'주식하면 패가망신' 옛말…\"지금 사요?\" 오전 8시,유튜브몰린다",
+                "url": "https://www.joongang.co.kr/article/25406995",
+                "publisher": "중앙일보",
+                "published_at": "2026-02-24 17:47",
+                "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202602/25/95b19548-0364-495f-ba21-f5718a64082e.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "문상민": [
+            {
+                "article_id": 10,
+                "run_id": 2,
+                "keyword_id": 10,
+                "title": "'파반느'문상민\"변요한과 진한 키스신 후 눈 못 마주치고 피해\"",
+                "url": "https://www.news1.kr/entertain/movie/6082362",
+                "publisher": "뉴스1",
+                "published_at": "2026-02-25 11:07",
+                "image_url": "https://i3n.news1.kr/system/photos/2026/2/25/7766092/high.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "파반느": [
+            {
+                "article_id": 11,
+                "run_id": 2,
+                "keyword_id": 11,
+                "title": "고아성 문상민 멜로...‘파반느’ 전세계 7위 출발",
+                "url": "https://www.mk.co.kr/article/11971176",
+                "publisher": "스타투데이",
+                "published_at": "2026-02-25 09:26",
+                "image_url": "https://pimg.mk.co.kr/news/cms/202602/25/news-p.v1.20260225.1f9be8ee99484904a899331067882153_R.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "부산찬란한 너의 계절에": [
+            {
+                "article_id": 12,
+                "run_id": 2,
+                "keyword_id": 12,
+                "title": "이승연 ‘찬란한 너의 계절에’ 출연",
+                "url": "https://sports.khan.co.kr/article/202602111622003?pt=nv",
+                "publisher": "SportsKyungHyang",
+                "published_at": "2026-02-11 16:22",
+                "image_url": "https://images.khan.co.kr/article/2026/02/11/news-p.v1.20260211.f64888cddd0e47208b693fce06175c78_P1.png",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "김태리": [
+            {
+                "article_id": 13,
+                "run_id": 2,
+                "keyword_id": 13,
+                "title": "김태리‘미소 천사’ [MK포토]",
+                "url": "https://www.mk.co.kr/article/11971500",
+                "publisher": "MK스포츠",
+                "published_at": "2026-02-25 12:29",
+                "image_url": "https://wimg.mk.co.kr/news/cms/202602/25/news-p.v1.20260225.728e7b6cc8af417d80998afdfed5546a_P1.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "아너 그녀들의 법정": [
+            {
+                "article_id": 14,
+                "run_id": 2,
+                "keyword_id": 14,
+                "title": "서현우 ‘악의 심연’ 보여준 역대급 빌런 (아너:그녀들의 법정)",
+                "url": "https://sports.khan.co.kr/article/202602251028003?pt=nv",
+                "publisher": "SportsKyungHyang",
+                "published_at": "2026-02-25 10:28",
+                "image_url": "https://images.khan.co.kr/article/2026/02/25/news-p.v1.20260225.b2ea6952ea184cf880019027b417a038_P1.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "윤영경": [
+            {
+                "article_id": 15,
+                "run_id": 2,
+                "keyword_id": 15,
+                "title": "“여러분 다 아신다”더니, 남창희 아내 정체는 ‘한강 아이유’윤영경",
+                "url": "http://www.fnnews.com/news/202602232011547955",
+                "publisher": "파이낸셜뉴스",
+                "published_at": "2026-02-24 06:00",
+                "image_url": "https://image.fnnews.com/resource/media/image/2026/02/23/202602231347482078_l.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "정동원": [
+            {
+                "article_id": 16,
+                "run_id": 2,
+                "keyword_id": 16,
+                "title": "가수정동원, 오늘 해병대 입대…\"자신과의 약속 지킨다\"",
+                "url": "https://www.yna.co.kr/view/AKR20260223033900005?input=1195m",
+                "publisher": "연합뉴스",
+                "published_at": "2026-02-23 09:17",
+                "image_url": "https://img1.yna.co.kr/etc/inner/KR/2026/02/23/AKR20260223033900005_02_i_P4.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "금잔디": [
+            {
+                "article_id": 17,
+                "run_id": 2,
+                "keyword_id": 17,
+                "title": "'현역가왕3' 이수연, 준결승 1위…홍자・금잔디'생존'→소유미・김주이...",
+                "url": "https://sports.hankooki.com/news/articleView.html?idxno=6926471",
+                "publisher": "스포츠한국",
+                "published_at": "2026-02-25 00:27",
+                "image_url": "https://cdn.sports.hankooki.com/news/thumbnail/202602/6926471_1193005_2530_v150.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "홍자": [
+            {
+                "article_id": 18,
+                "run_id": 2,
+                "keyword_id": 18,
+                "title": "차지연-홍지윤→솔지-홍자, 결승 진출 10인 확정..최고 시청률 13.2%(‘현...",
+                "url": "https://www.heraldmuse.com/article/10681732?ref=naver",
+                "publisher": "헤럴드뮤즈 (Herald Muse)",
+                "published_at": "2026-02-25 09:13",
+                "image_url": "https://wimg.heraldcorp.com/news/cms/2026/02/25/news-p.v1.20260225.46bc7d9a0ae84479b2b22f9d64429820_T1.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ]
+    },
+    "비즈니스 및 금융": {
+        "김인호": [
+            {
+                "article_id": 19,
+                "run_id": 3,
+                "keyword_id": 19,
+                "title": "이 대통령,김인호산림청장 직권면직…\"중대한 법령 위반 확인\"",
+                "url": "https://www.newsis.com/view/NISX20260221_0003521016",
+                "publisher": "뉴시스",
+                "published_at": "2026-02-21 12:59",
+                "image_url": "https://img1.newsis.com/2025/12/11/NISI20251211_0021093631_web.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "비트코인": [
+            {
+                "article_id": 20,
+                "run_id": 3,
+                "keyword_id": 20,
+                "title": "비트코인9300만원대 소폭 반등…시장은 불안감 여전",
+                "url": "https://www.newsis.com/view/NISX20260225_0003525286",
+                "publisher": "뉴시스",
+                "published_at": "2026-02-25 10:55",
+                "image_url": "https://img1.newsis.com/2026/02/19/NISI20260219_0021177384_web.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "케이뱅크 공모주": [
+            {
+                "article_id": 21,
+                "run_id": 3,
+                "keyword_id": 21,
+                "title": "3.4兆 IPO 대어케이뱅크, 일반 청약 마무리 [이번주 증시 캘린더]",
+                "url": "https://www.sedaily.com/article/20011061?ref=naver",
+                "publisher": "서울경제",
+                "published_at": "2026-02-23 05:00",
+                "image_url": "https://wimg.sedaily.com/news/cms/2026/02/23/news-p.v1.20260222.b95a1ff5f7dd474dbd250ea1b0f2f759_R.png",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "하이닉스 주가": [
+            {
+                "article_id": 22,
+                "run_id": 3,
+                "keyword_id": 22,
+                "title": "대신증권 \"SK스퀘어,하이닉스대안 매력 여전…목표가 상향\"",
+                "url": "https://www.yna.co.kr/view/AKR20260225026500008?input=1195m",
+                "publisher": "연합뉴스",
+                "published_at": "2026-02-25 08:26",
+                "image_url": "https://img0.yna.co.kr/photo/cms/2024/02/24/37/PCM20240224000037008_P4.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "엔화": [
+            {
+                "article_id": 23,
+                "run_id": 3,
+                "keyword_id": 23,
+                "title": "\"1월엔화환율점검, 日 요청 아닌 베선트 美재무장관 주도\"",
+                "url": "https://www.news1.kr/world/international-economy/6080876",
+                "publisher": "뉴스1",
+                "published_at": "2026-02-24 11:11",
+                "image_url": "https://i3n.news1.kr/system/photos/2026/2/6/7735201/high.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "주식": [
+            {
+                "article_id": 24,
+                "run_id": 3,
+                "keyword_id": 24,
+                "title": "코스피 뛰자 외국인 투자 '사상 최대'…순대외자산 5년 만에 감소",
+                "url": "https://www.newsis.com/view/NISX20260225_0003525688",
+                "publisher": "뉴시스",
+                "published_at": "2026-02-25 12:24",
+                "image_url": "https://img1.newsis.com/2026/02/05/NISI20260205_0021151264_web.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "에어로케이": [
+            {
+                "article_id": 25,
+                "run_id": 3,
+                "keyword_id": 25,
+                "title": "에어로케이항공, 청주~후쿠오카 노선 하루 2회 한시 증편",
+                "url": "https://www.nocutnews.co.kr/news/6475161?utm_source=naver&utm_medium=article&utm_campaign=20260223062010",
+                "publisher": "노컷뉴스",
+                "published_at": "2026-02-23 18:19",
+                "image_url": "https://file2.nocutnews.co.kr/newsroom/image/2026/02/23/202602231818124590_0.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "에스팀": [
+            {
+                "article_id": 26,
+                "run_id": 3,
+                "keyword_id": 26,
+                "title": "에스팀, 일반 청약 증거금 3조7501억원… 경쟁률 1960대 1",
+                "url": "https://biz.chosun.com/stock/stock_general/2026/02/24/TYMOJT7ZGZGC5DYE53PYBVBPRA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+                "publisher": "조선비즈",
+                "published_at": "2026-02-24 16:50",
+                "image_url": "https://biz.chosun.com/resizer/v2/MCEKQHTHYNELVGF6QWQJJV7QQE.png?auth=3f70343d05faed276b0a87153e1bdc7699fb6b5069765387edc8d166af3ebb40&width=574&height=300&smart=true",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "신영자": [
+            {
+                "article_id": 27,
+                "run_id": 3,
+                "keyword_id": 27,
+                "title": "출장 중 귀국한 신동빈 회장…아들과 누나신영자의장 빈소 조문(종합...",
+                "url": "https://www.news1.kr/industry/distribution/6079012",
+                "publisher": "뉴스1",
+                "published_at": "2026-02-22 23:04",
+                "image_url": "https://i3n.news1.kr/system/photos/2026/2/22/7760905/high.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "액스비스": [
+            {
+                "article_id": 28,
+                "run_id": 3,
+                "keyword_id": 28,
+                "title": "액스비스, 청약 경쟁률 2711.06대 1…증거금 8.9兆 몰려",
+                "url": "https://www.newsis.com/view/NISX20260224_0003524773",
+                "publisher": "뉴시스",
+                "published_at": "2026-02-24 16:41",
+                "image_url": "https://img1.newsis.com/2026/02/24/NISI20260224_0002069320_web.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ]
+    },
+    "스포츠": {
+        "엘에이 fc 대 인터 마이애미": [
+            {
+                "article_id": 29,
+                "run_id": 4,
+                "keyword_id": 29,
+                "title": null,
+                "url": null,
+                "publisher": null,
+                "published_at": null,
+                "image_url": null,
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "mls": [
+            {
+                "article_id": 30,
+                "run_id": 4,
+                "keyword_id": 30,
+                "title": "MLS연봉 2위 손흥민…LA에서 GV80 쿠페 운전 모습 화제",
+                "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00013&news_seq_no=5177608",
+                "publisher": "MBN",
+                "published_at": "2026-02-24 10:04",
+                "image_url": "http://img.mbn.co.kr/filewww/news/2026/02/24/1771894797699cf80d54d2b.gif",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "챔피언스리그": [
+            {
+                "article_id": 31,
+                "run_id": 4,
+                "keyword_id": 31,
+                "title": "아틀레티코·보되/글림트 등챔피언스리그16강 진출 확정",
+                "url": "https://ilyo.co.kr/?ac=article_view&entry_id=508771",
+                "publisher": "일요신문",
+                "published_at": "2026-02-25 10:06",
+                "image_url": "https://ilyo.co.kr/contents/article/images/2026/0225/1771981482040234.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "인테르": [
+            {
+                "article_id": 32,
+                "run_id": 4,
+                "keyword_id": 32,
+                "title": "인조잔디서 뛰는 '빅클럽 사냥꾼' 보되,인테르꺾고 첫 UCL 16강",
+                "url": "https://news.tvchosun.com/site/data/html_dir/2026/02/25/2026022590110.html",
+                "publisher": null,
+                "published_at": "2026-02-25 11:27",
+                "image_url": "https://img.investchosun.com/images/facebook.png",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "토트넘 대 아스널": [
+            {
+                "article_id": 33,
+                "run_id": 4,
+                "keyword_id": 33,
+                "title": "앞으로 어디가서 라이벌이라고 하지 마라! '선두 질주'아스널, '강등 위...",
+                "url": "http://www.spochoo.com/news/articleView.html?idxno=120562",
+                "publisher": "더게이트(THE GATE)",
+                "published_at": "2026-02-23 11:00",
+                "image_url": "https://cdn.spochoo.com/news/thumbnail/202602/120562_239732_4819_v150.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "노시환": [
+            {
+                "article_id": 34,
+                "run_id": 4,
+                "keyword_id": 34,
+                "title": "프로야구 한화,노시환과 11년 총액 307억원에 비FA 다년 계약",
+                "url": "https://www.yna.co.kr/view/AKR20260223018800007?input=1195m",
+                "publisher": "연합뉴스",
+                "published_at": "2026-02-23 08:12",
+                "image_url": "https://img0.yna.co.kr/etc/inner/KR/2026/02/23/AKR20260223018800007_01_i_P4.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "레알 에스파냐 대 엘에이 fc": [
+            {
+                "article_id": 35,
+                "run_id": 4,
+                "keyword_id": 35,
+                "title": null,
+                "url": null,
+                "publisher": null,
+                "published_at": null,
+                "image_url": null,
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "psg 대 메스": [
+            {
+                "article_id": 36,
+                "run_id": 4,
+                "keyword_id": 36,
+                "title": "이강인, 올해 첫 선발…PSG는 선두 탈환",
+                "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008450346&plink=ORI&cooper=NAVER",
+                "publisher": "SBS NEWS",
+                "published_at": "2026-02-22 08:31",
+                "image_url": "https://img.sbs.co.kr/newimg/news/20260222/202158958_1280.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "울브스 대 아스널": [
+            {
+                "article_id": 37,
+                "run_id": 4,
+                "keyword_id": 37,
+                "title": "황희찬,아스널전 풀타임+무득점+황당 경고…울브스는 1-2 석패 [PL 리뷰...",
+                "url": "https://www.xportsnews.com/article/1800390",
+                "publisher": "엑스포츠뉴스",
+                "published_at": "2023-12-03 07:12",
+                "image_url": "https://image.xportsnews.com/contents/images/upload/article/2023/1203/1701554889788177.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ],
+        "맨 시티 대 뉴캐슬": [
+            {
+                "article_id": 38,
+                "run_id": 4,
+                "keyword_id": 38,
+                "title": "\"EPL 우승경쟁 아스널X맨시티의 2파전이 확실해?\" 과르디올라의 '의미심...",
+                "url": "https://www.sportschosun.com/football/2026-01-01/202601010100003090000046",
+                "publisher": "스포츠조선",
+                "published_at": "2026-01-01 08:18",
+                "image_url": "https://www.sportschosun.com/article/html/2026/01/01/2026010101000030900000462_w.jpg",
+                "collected_at": "2026-02-25 13:44"
+            }
+        ]
+    }
+}
