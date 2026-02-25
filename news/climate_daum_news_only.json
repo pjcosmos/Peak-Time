@@ -1,0 +1,132 @@
+{
+    "target_keywords": [
+        "날씨",
+        "울산날씨",
+        "강풍 경보",
+        "부산날씨",
+        "날씨예보",
+        "내일 날씨",
+        "일기예보",
+        "대구 날씨"
+    ],
+    "meta_info": {
+        "source": "daum_news",
+        "category": "climate",
+        "collected_at": "2026-02-25T11:25:24.848388",
+        "count": 8
+    },
+    "data": [
+        {
+            "category": "기후",
+            "id": 1,
+            "keyword": "날씨",
+            "total_count": 10,
+            "news": {
+                "daum": [
+                    {
+                        "title": "[날씨] 한낮 15도 안팎 껑충…수도권·강원 건조특보",
+                        "link": "http://v.daum.net/v/20260225091506030"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 2,
+            "keyword": "울산날씨",
+            "total_count": 10,
+            "news": {
+                "daum": [
+                    {
+                        "title": "울산흐린날씨…최저 7도·최고 12도",
+                        "link": "http://v.daum.net/v/20260225081245656"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 3,
+            "keyword": "강풍 경보",
+            "total_count": 10,
+            "news": {
+                "daum": [
+                    {
+                        "title": "청주공항 제주노선 5편 결항…\"제주공항강풍경보\"",
+                        "link": "http://v.daum.net/v/20260224135646794"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 4,
+            "keyword": "부산날씨",
+            "total_count": 10,
+            "news": {
+                "daum": [
+                    {
+                        "title": "부산, 대체로 흐린날씨…낮 최고기온 14도",
+                        "link": "http://v.daum.net/v/20260225062238411"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 5,
+            "keyword": "날씨예보",
+            "total_count": 10,
+            "news": {
+                "daum": [
+                    {
+                        "title": "낮부터 기온 올라 일교차 15도 안팎…곳곳 짙은 안개 유의",
+                        "link": "http://v.daum.net/v/20260225053225672"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 6,
+            "keyword": "내일 날씨",
+            "total_count": 10,
+            "news": {
+                "daum": [
+                    {
+                        "title": "전국 낮 최고 16도… 미세먼지 ‘좋음’ 수준 회복 [내일날씨]",
+                        "link": "http://v.daum.net/v/20260224173444664"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 7,
+            "keyword": "일기예보",
+            "total_count": 10,
+            "news": {
+                "daum": [
+                    {
+                        "title": "폰세보다 더한 괴물이 뜬다…6년 만에 韓 돌아온 ML 35승 투수, 日 세이부 상대 출격",
+                        "link": "http://v.daum.net/v/20260225111926275"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 8,
+            "keyword": "대구 날씨",
+            "total_count": 10,
+            "news": {
+                "daum": [
+                    {
+                        "title": "[날씨]대구·경북 내일 새벽까지 눈·비…빙판길 주의!",
+                        "link": "http://v.daum.net/v/20260224201456479"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "category": "기후",
+            "id": 1,
+            "keyword": "강풍 경보",
+            "total_count": 12,
+            "news": {
+                "google": [
+                    {
+                        "title": "청주공항 제주노선 5편 결항…\"제주공항 강풍경보\" - 뉴시스",
+                        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZQmRkSDNYeVJSa0V1SWZxcko1ZDlkbVdxTG9STHZmNGVpc3Z4R180cFRkdThEVkZJcU1pcGx6Uk1rNmdqX1V5dlZIS2xWZzRuSG0xRXV4RG1kc1dLNFo0VFpIUC1nVjJvbFVCT2hfTWlnWnRfSENSMtIBeEFVX3lxTFBZQmRkSDNYeVJSa0V1SWZxcko1ZDlkbVdxTG9STHZmNGVpc3Z4R180cFRkdThEVkZJcU1pcGx6Uk1rNmdqX1V5dlZIS2xWZzRuSG0xRXV4RG1kc1dLNFo0VFpIUC1nVjJvbFVCT2hfTWlnWnRfSENSMg?oc=5"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 2,
+            "keyword": "날씨예보",
+            "total_count": 100,
+            "news": {
+                "google": [
+                    {
+                        "title": "2월 25일 일기예보: 여러 지역에 걸쳐 광범위한 뇌우가 예상됩니다. - Vietnam.vn",
+                        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmNwYmZha000ZmxCTlgwVkFsd0F2SUsydkNmRVNMU2V5SHVCSWhHbE5sUktTUG40SDNuOTZiX21jTXRTb1dUWE94aXZraEpzc2NvSlE3bWszbHF3Yk1MZk5YWnlUaG1rY3hRZXZVMDFvYS0xLXhTd25mbk9xQmVPODlQQQ?oc=5"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 3,
+            "keyword": "대구 날씨",
+            "total_count": 40,
+            "news": {
+                "google": [
+                    {
+                        "title": "[날씨]2월25일(수) 대구경북 빙판길과 도로 살얼음 유의 - LG헬로비전",
+                        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZUkZNNG1NSXFzbHRLMmlKZXJPdVdzZHFqdEFoTUlrYkE3TjhkX3FwaDdqYV9BNHFLNWpGOUJjOGJ5V0o2LW9iRGtWTTlrLVVPajhkeEp1cGV6OURXLWR5YWh1NG9pU0xUN3Q3U1FXNmtPeWVhcXfSAXZBVV95cUxNWVJGTTRtTUlxc2x0SzJpSmVyT3VXc2RxanRBaE1Ja2JBN044ZF9xcGg3amFfQTRxSzVqRjlCYzhieVdKNi1vYkRrVk05ay1VT2o4ZHhKdXBlejlEVy1keWFodTRvaVNMVDd0N1NRVzZrT3llYXF3?oc=5"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 4,
+            "keyword": "울산날씨",
+            "total_count": 35,
+            "news": {
+                "google": [
+                    {
+                        "title": "[오늘의 날씨] 울산(25일, 수)…아침까지 눈·비, 해상 높은 물결 - 뉴스1",
+                        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uY1VUcDlmWktEelh0TmtOeHVOTHNlVXRFZzRQSGVoM3pzUS0yLWJiOVUwR0w3Q0tzM1RmeElzZ1Q5cDV6bDV4Vzh6Qm5Lb1V1d1E?oc=5"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 5,
+            "keyword": "일기예보",
+            "total_count": 27,
+            "news": {
+                "google": [
+                    {
+                        "title": "2월 25일 일기예보: 여러 지역에 걸쳐 광범위한 뇌우가 예상됩니다. - Vietnam.vn",
+                        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmNwYmZha000ZmxCTlgwVkFsd0F2SUsydkNmRVNMU2V5SHVCSWhHbE5sUktTUG40SDNuOTZiX21jTXRTb1dUWE94aXZraEpzc2NvSlE3bWszbHF3Yk1MZk5YWnlUaG1rY3hRZXZVMDFvYS0xLXhTd25mbk9xQmVPODlQQQ?oc=5"
+                    }
+                ]
+            }
+        },
+        {
+            "category": "기후",
+            "id": 6,
+            "keyword": "오늘의 날씨",
+            "total_count": 100,
+            "news": {
+                "google": [
+                    {
+                        "title": "[오늘의 날씨] 경기(25일, 수)…종일 맑음, 낮 최고 16도 - 뉴스1",
+                        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CSlNsWEo0aHJ0bjZsNTROZUVETXdsdFBnUW1rUXFpOG8xODdQZ1V6WDZIWkZiekhNRUJMT1lYak50ZDIxQUtmTlBfSTBIYnViU3QzLUF3?oc=5"
+                    }
+                ]
+            }
+        }
+    ]
+}

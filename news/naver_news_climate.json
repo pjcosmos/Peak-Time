@@ -1,0 +1,69 @@
+{
+    "target_keywords": [
+        "날씨",
+        "울산날씨",
+        "강풍 경보",
+        "부산날씨",
+        "날씨예보",
+        "내일 날씨",
+        "일기예보",
+        "대구 날씨"
+    ],
+    "meta_info": {
+        "source": "naver_news_search",
+        "category": "climate",
+        "collected_at": "2026-02-25T12:21:54.450773",
+        "count": 8,
+        "note": "1 article per keyword (title/link from Naver search; published normalized when possible)"
+    },
+    "data": [
+        {
+            "keyword": "날씨",
+            "title": "경상권 비 소식…낮 최고 16도까지 기온 올라 포근[오늘날씨]",
+            "published": "2026-02-25 01:07",
+            "link": "https://www.newsis.com/view/NISX20260224_0003525052"
+        },
+        {
+            "keyword": "울산날씨",
+            "title": "전국 곳곳 짙은 안개…교통안전에 유의해야 [오늘날씨]",
+            "published": "2026-02-25 06:25",
+            "link": "https://www.segye.com/newsView/20260225502066?OutUrl=naver"
+        },
+        {
+            "keyword": "강풍 경보",
+            "title": "청주공항 제주노선 5편 결항…\"제주공항강풍경보\"",
+            "published": "2026-02-24 13:54",
+            "link": "https://www.newsis.com/view/NISX20260224_0003524333"
+        },
+        {
+            "keyword": "부산날씨",
+            "title": "전국 곳곳 짙은 안개…교통안전에 유의해야 [오늘날씨]",
+            "published": "2026-02-25 06:25",
+            "link": "https://www.segye.com/newsView/20260225502066?OutUrl=naver"
+        },
+        {
+            "keyword": "날씨예보",
+            "title": "[내일날씨] 낮 최고 10∼16도…전국 대체로 흐림",
+            "published": "2026-02-25 09:10",
+            "link": "https://biz.sbs.co.kr/article_hub/20000293412?division=NAVER"
+        },
+        {
+            "keyword": "내일 날씨",
+            "title": "[내일날씨] 낮 최고 10∼16도…전국 대체로 흐림",
+            "published": "2026-02-25 09:10",
+            "link": "https://biz.sbs.co.kr/article_hub/20000293412?division=NAVER"
+        },
+        {
+            "keyword": "일기예보",
+            "title": "폰세보다 더한 괴물이 뜬다…6년 만에 韓 돌아온 ML 35승 투수, 日 세이...",
+            "published": "2026-02-25 11:17",
+            "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=800376"
+        },
+        {
+            "keyword": "대구 날씨",
+            "title": "전국 곳곳 짙은 안개…교통안전에 유의해야 [오늘날씨]",
+            "published": "2026-02-25 06:25",
+            "link": "https://www.segye.com/newsView/20260225502066?OutUrl=naver"
+        }
+    ]
+}

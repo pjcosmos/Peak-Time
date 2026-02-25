@@ -1,0 +1,132 @@
+[
+    {
+        "keyword": "날씨",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "[출근길 날씨] 낮 기온 15도 안팎으로 포근…일교차 매우 커",
+                "link": "http://v.daum.net/v/20260225064204874",
+                "pub_date": "2시간전",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "울산날씨",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "울산 흐린 날씨…최저 7도·최고 12도",
+                "link": "http://v.daum.net/v/20260225081245656",
+                "pub_date": "1시간전",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "강풍 경보",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "청주공항 제주노선 5편 결항…\"제주공항 강풍경보\"",
+                "link": "http://v.daum.net/v/20260224135646794",
+                "pub_date": "19시간전",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "부산날씨",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "부산, 대체로 흐린 날씨…낮 최고기온 14도",
+                "link": "http://v.daum.net/v/20260225062238411",
+                "pub_date": "3시간전",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "날씨예보",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "낮부터 기온 올라 일교차 15도 안팎…곳곳 짙은 안개 유의",
+                "link": "http://v.daum.net/v/20260225053225672",
+                "pub_date": "4시간전",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "내일 날씨",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "전국 낮 최고 16도… 미세먼지 ‘좋음’ 수준 회복 [내일날씨]",
+                "link": "http://v.daum.net/v/20260224173444664",
+                "pub_date": "15시간전",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "일기예보",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "미술관 오픈런의 효시… 시대를 읽는 전시로 살아남다",
+                "link": "http://v.daum.net/v/20260225001124870",
+                "pub_date": "9시간전",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "대구 날씨",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "[날씨] 대구·경북 내일 새벽까지 눈·비…빙판길 주의!",
+                "link": "http://v.daum.net/v/20260224201456479",
+                "pub_date": "13시간전",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "天気",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "“밥은 먹었어?” 한국식 안부 인사…외국에서도 그럴까 [.txt]",
+                "link": "http://v.daum.net/v/20250301140501150",
+                "pub_date": "2025.03.01",
+                "image": "이미지 없음"
+            }
+        ]
+    },
+    {
+        "keyword": "wind warning",
+        "count": 1,
+        "news_items": [
+            {
+                "platform": "Daum",
+                "title": "Korea ushers in first sign of spring with unreasonably mild weather",
+                "link": "http://v.daum.net/v/20260219185103155",
+                "pub_date": "2026.02.19",
+                "image": "이미지 없음"
+            }
+        ]
+    }
+]
