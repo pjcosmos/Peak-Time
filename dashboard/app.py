@@ -6,6 +6,23 @@ import datetime
 # 5. 페이지 설정
 st.set_page_config(layout="wide", page_title="Peak-Time Trend Dashboard")
 
+# -------------------------------------------------------------------
+# [신규 추가] 커스텀 CSS (Metric 증감 색상을 파란색으로 강제 변경)
+# -------------------------------------------------------------------
+st.markdown("""
+<style>
+/* st.metric의 델타(증감) 영역 텍스트 및 배경색을 구글 파란색으로 변경 */
+[data-testid="stMetricDelta"] > div {
+    color: #4285F4 !important;
+    background-color: #E8F0FE !important;
+}
+/* 델타 영역의 화살표(아이콘) 색상 변경 */
+[data-testid="stMetricDelta"] svg {
+    fill: #4285F4 !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
 # 세션 상태 초기화
 if "selected_keyword" not in st.session_state:
     st.session_state.selected_keyword = None
@@ -24,12 +41,13 @@ def get_dummy_keywords(category):
     }
     return keywords.get(category, [])
 
-def get_dummy_chart_data():
+# 네이버 전용 더미 차트 데이터 (구글 제외)
+def get_dummy_naver_chart_data():
     dates = [datetime.date.today() - datetime.timedelta(days=i) for i in range(6, -1, -1)]
     data = {
-        "날짜": dates * 2,
-        "검색량": [i * 10 + (i % 3) * 5 for i in range(7)] + [i * 8 + (i % 2) * 10 for i in range(7)],
-        "플랫폼": ["Google"] * 7 + ["Naver"] * 7
+        "날짜": dates,
+        "검색량": [10, 35, 20, 55, 60, 45, 90], # 임의의 우상향 흐름
+        "플랫폼": ["Naver"] * 7
     }
     return pd.DataFrame(data)
 
@@ -82,11 +100,24 @@ with right_col:
     if st.session_state.selected_keyword:
         st.subheader(f"🔍 '{st.session_state.selected_keyword}' 심층 분석")
         
-        # 상단: 구글 vs 네이버 7일 검색량 비교 라인 차트
-        df = get_dummy_chart_data()
-        fig = px.line(df, x="날짜", y="검색량", color="플랫폼", title="최근 7일 검색 트렌드 비교",
-                      markers=True, template="plotly_white")
+        # 상단: 구글 지표 (규모 & 폭발력) - Metric Card 활용
+        st.markdown("##### 🔵 Google 검색 반응") 
+        g_col1, g_col2 = st.columns(2)
+        with g_col1:
+            st.metric(label="총 검색량 (Volume)", value="10만+", delta="안정적 규모 유지")
+        with g_col2:
+            st.metric(label="급상승 비율 (Momentum)", value="400%", delta="Breakout (폭발적 상승)")
+            
+        st.divider()
+
+        # 중단: 네이버 지표 (시계열 흐름) - Line Chart 활용
+        st.markdown("##### 🟢 Naver 검색 흐름")
+        df = get_dummy_naver_chart_data()
+        fig = px.line(df, x="날짜", y="검색량", title="최근 7일 네이버 상대적 검색 추이",
+                      markers=True, template="plotly_white", color_discrete_sequence=["#2DB400"])
         st.plotly_chart(fig, use_container_width=True)
+        
+        st.divider()
         
         # 하단: 관련 뉴스 및 유튜브 반응
         news_col, youtube_col = st.columns(2)
