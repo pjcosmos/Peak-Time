@@ -1,4 +1,5 @@
 import json
+import os
 import pandas as pd
 
 # 4가지 카테고리 목록
@@ -11,6 +12,9 @@ w_naver_sum = 0.35
 w_naver_slope = 0.15
 
 print("🏆 최적의 가중치(35:15:35:15)를 적용한 최종 TOP 10 산출을 시작합니다...\n")
+
+# 👈 추가: result 폴더가 없으면 자동으로 생성 (exist_ok=True는 이미 폴더가 있어도 에러 내지 않음)
+os.makedirs('result', exist_ok=True)
 
 for cat in categories:
     try:

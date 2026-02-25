@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
 
 # ⚠️ 한글 폰트 설정 (윈도우: 'Malgun Gothic', 맥: 'AppleGothic')
 plt.rcParams['font.family'] = 'Malgun Gothic'
@@ -9,6 +10,9 @@ categories = ['climate', 'entertainment', 'finance', 'sports']
 colors = ['#4CAF50', '#E91E63', '#2196F3', '#FF9800'] # 카테고리별 테마 색상 지정
 
 print("📊 [TOP 10 랭킹] 수평 막대 그래프 생성을 시작합니다...\n")
+
+# 👈 추가: 시각화 이미지를 저장할 전용 폴더 생성
+os.makedirs('result/visualize', exist_ok=True)
 
 for i, cat in enumerate(categories):
     try:
@@ -43,7 +47,7 @@ for i, cat in enumerate(categories):
         
         # 여백 최적화 후 이미지 저장
         plt.tight_layout()
-        output_filename = f'result/visualization/top10_bar_{cat}.png'
+        output_filename = f'result/visualize/top10_bar_{cat}.png'
         plt.savefig(output_filename, dpi=300)
         plt.close()
         

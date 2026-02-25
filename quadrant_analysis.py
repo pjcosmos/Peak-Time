@@ -1,10 +1,14 @@
 import json
+import os
 import pandas as pd
 
 # 분석할 카테고리
 categories = ['climate', 'entertainment', 'finance', 'sports']
 
 print("🌟 [Volume vs Momentum] 4분면 포지셔닝 맵 분석을 시작합니다...\n")
+
+# 👈 추가: result 폴더 안의 quadrant 폴더까지 한 번에 생성
+os.makedirs('result/quadrant', exist_ok=True)
 
 for cat in categories:
     try:

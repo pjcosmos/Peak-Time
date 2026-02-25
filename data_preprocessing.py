@@ -44,7 +44,7 @@ print("🧹 [Step 1] 통합 데이터 전처리를 시작합니다 (Google 분�
 for cat in categories:
     try:
         # 원본 Raw Data 읽기
-        with open(f'data/trend_report_{cat}.json', 'r', encoding='utf-8') as f:
+        with open(f'raw_data/trend_report_{cat}.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
             
         processed_results = []

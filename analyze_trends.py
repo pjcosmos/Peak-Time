@@ -1,4 +1,5 @@
 import json
+import os
 import pandas as pd
 
 # 1. 분석할 카테고리
@@ -11,6 +12,9 @@ w_google_surge = 0.15
 w_naver_slope = 0.15
 
 print("🔍 키워드별 [플랫폼 기여도 심층 분석]을 시작합니다...\n")
+
+# 👈 추가: result 폴더가 없으면 자동으로 생성 (exist_ok=True는 이미 폴더가 있어도 에러 내지 않음)
+os.makedirs('result', exist_ok=True)
 
 for cat in categories:
     try:

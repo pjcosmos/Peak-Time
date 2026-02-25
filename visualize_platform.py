@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -13,6 +14,9 @@ color_google = '#4285F4' # 구글을 상징하는 파란색
 color_naver = '#03C75A'  # 네이버를 상징하는 초록색
 
 print("📊 [플랫폼 기여도] 누적 막대 그래프 생성을 시작합니다...\n")
+
+# 👈 추가: 시각화 이미지를 저장할 전용 폴더 생성
+os.makedirs('result/visualize', exist_ok=True)
 
 for cat in categories:
     try:
@@ -61,7 +65,7 @@ for cat in categories:
         
         # 여백 최적화 후 고해상도 이미지(PNG) 저장
         plt.tight_layout()
-        output_filename = f'result/visualization/platform_dominance_{cat}.png'
+        output_filename = f'result/visualize/platform_dominance_{cat}.png'
         plt.savefig(output_filename, dpi=300)
         plt.close() # 다음 그래프를 그리기 위해 도화지 닫기
         
