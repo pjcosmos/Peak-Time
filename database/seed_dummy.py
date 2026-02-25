@@ -1,9 +1,13 @@
 import os
+<<<<<<< HEAD
+import psycopg2
+=======
 import random
 from datetime import datetime, timedelta
 
 import psycopg2
 from psycopg2.extras import execute_values
+>>>>>>> develop
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -12,6 +16,22 @@ DB_URL = os.getenv("DATABASE_URL")
 if not DB_URL:
     raise RuntimeError("DATABASE_URL이 .env에 없습니다.")
 
+<<<<<<< HEAD
+def delete_all_dummy_runs():
+    conn = psycopg2.connect(DB_URL)
+    conn.autocommit = False
+    try:
+        with conn.cursor() as cur:
+            # 지우기 전에 몇 개나 있는지 확인
+            cur.execute("SELECT count(*) FROM collection_run WHERE is_dummy = TRUE;")
+            cnt = cur.fetchone()[0]
+
+            cur.execute("DELETE FROM collection_run WHERE is_dummy = TRUE;")
+
+        conn.commit()
+        print(f"✅ 더미 run {cnt}개 삭제 완료 (CASCADE로 하위 데이터도 함께 삭제됨)")
+    except Exception:
+=======
 CATEGORIES = [
     ("sports", "스포츠"),
     ("climate", "기후"),
@@ -205,11 +225,17 @@ def main():
         print(f"✅ 더미 seed 완료! run_id = {run_id} (is_dummy = true)")
 
     except Exception as e:
+>>>>>>> develop
         conn.rollback()
         raise
     finally:
         conn.close()
 
+<<<<<<< HEAD
+if __name__ == "__main__":
+    delete_all_dummy_runs()
+=======
 
 if __name__ == "__main__":
     main()
+>>>>>>> develop
