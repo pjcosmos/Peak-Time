@@ -1,0 +1,310 @@
+{
+    "category": "sports",
+    "base_date": "2026-02-25",
+    "results": [
+        {
+            "rank_title": "토트넘 대 아스널",
+            "google_volume": "10만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "에버턴 대 맨유",
+            "google_volume": "2만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "pakistan vs england",
+            "google_volume": "2천+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "챔피언스리그",
+            "google_volume": "1천+\narrow_upward\n1,000%",
+            "naver_trend_sum": 306.88,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 31.31917
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 100
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 68.83174
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 37.99888
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 22.6048
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 22.40357
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 23.71716
+                }
+            ]
+        },
+        {
+            "rank_title": "엘에이 fc 대 인터 마이애미",
+            "google_volume": "20만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0.03,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.02794
+                }
+            ]
+        },
+        {
+            "rank_title": "atlético madrid vs club brugge",
+            "google_volume": "500+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "at마드리드",
+            "google_volume": "200+\narrow_upward\n1,000%",
+            "naver_trend_sum": 1.35,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.10437
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.27165
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.34743
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.12367
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 0.14869
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.20374
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 0.14798
+                }
+            ]
+        },
+        {
+            "rank_title": "psg 대 메스",
+            "google_volume": "5만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "mlb",
+            "google_volume": "100+\narrow_upward\n300%",
+            "naver_trend_sum": 20.16,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 1.98951
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 2.7094
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 2.56285
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 2.63505
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 3.18623
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 3.76743
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 3.30919
+                }
+            ]
+        },
+        {
+            "rank_title": "노시환",
+            "google_volume": "5천+\narrow_upward\n1,000%",
+            "naver_trend_sum": 105.65,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.65983
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.68128
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.76206
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 1.37757
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 1.3547
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.81425
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 100
+                }
+            ]
+        },
+        {
+            "rank_title": "레알 에스파냐 대 엘에이 fc",
+            "google_volume": "10만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "인테르",
+            "google_volume": "100+\narrow_upward\n300%",
+            "naver_trend_sum": 343.57,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 24.75633
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 42.39766
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 100
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 43.56725
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 36.5497
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 52.53411
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 43.76218
+                }
+            ]
+        },
+        {
+            "rank_title": "노팅엄 포레스트 대 리버풀",
+            "google_volume": "2만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "바르셀로나 대 레반테",
+            "google_volume": "1만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "맨 시티 대 뉴캐슬",
+            "google_volume": "2만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0.49,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.48732
+                }
+            ]
+        },
+        {
+            "rank_title": "바이에른 대 아인트라흐트",
+            "google_volume": "2만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "오사수나 대 레알 마드리드",
+            "google_volume": "2만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "울브스 대 아스널",
+            "google_volume": "5만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        },
+        {
+            "rank_title": "mls",
+            "google_volume": "2만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 161.02,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 3.10699
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 10.08029
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 7.52312
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 7.4533
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 14.15604
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 100
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 18.70308
+                }
+            ]
+        },
+        {
+            "rank_title": "첼시 대 번리",
+            "google_volume": "1만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0,
+            "naver_daily_ratio": []
+        }
+    ]
+}

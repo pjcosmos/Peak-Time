@@ -1,0 +1,799 @@
+{
+    "category": "entertainment",
+    "base_date": "2026-02-25",
+    "results": [
+        {
+            "rank_title": "김지호",
+            "google_volume": "5천+\narrow_upward\n900%",
+            "naver_trend_sum": 13.46,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.43903
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.6031
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.56273
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.614
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 0.54863
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.63259
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 10.05864
+                }
+            ]
+        },
+        {
+            "rank_title": "파반느",
+            "google_volume": "1만+\narrow_upward\n500%",
+            "naver_trend_sum": 231.73,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 5.57987
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 5.37413
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 4.34673
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 25.97981
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 68.19868
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 73.4927
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 48.76205
+                }
+            ]
+        },
+        {
+            "rank_title": "청년문화예술패스",
+            "google_volume": "2천+\narrow_upward\n400%",
+            "naver_trend_sum": 20.2,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 3.01041
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 3.3078
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 3.09053
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 2.55984
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 2.33488
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 2.73609
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 3.1591
+                }
+            ]
+        },
+        {
+            "rank_title": "윤영경",
+            "google_volume": "5천+\narrow_upward\n900%",
+            "naver_trend_sum": 100.16,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.01345
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.01153
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.0205
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.02499
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 0.01345
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.07242
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 100
+                }
+            ]
+        },
+        {
+            "rank_title": "sydney sweeney",
+            "google_volume": "2천+\narrow_upward\n1,000%",
+            "naver_trend_sum": 0.17,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.02884
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.06921
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.02371
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.01538
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 0.01538
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.01217
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 0.00576
+                }
+            ]
+        },
+        {
+            "rank_title": "윤유선",
+            "google_volume": "1천+\narrow_upward\n1,000%",
+            "naver_trend_sum": 14.76,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 1.38638
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.75714
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 6.2249
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 1.9043
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 2.64131
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 1.26203
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 0.5866
+                }
+            ]
+        },
+        {
+            "rank_title": "에반게리온",
+            "google_volume": "1천+\narrow_upward\n200%",
+            "naver_trend_sum": 6.24,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.82582
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.81951
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.8957
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.8203
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 0.86806
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.9936
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 1.01965
+                }
+            ]
+        },
+        {
+            "rank_title": "찬란한 너의 계절에",
+            "google_volume": "5천+\narrow_upward\n400%",
+            "naver_trend_sum": 260.69,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 4.15757
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 3.65228
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 5.29091
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 79.46913
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 100
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 48.50486
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 19.62016
+                }
+            ]
+        },
+        {
+            "rank_title": "김규리",
+            "google_volume": "500+\narrow_upward\n600%",
+            "naver_trend_sum": 3.54,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.78872
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.4816
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.41646
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.43344
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 0.44804
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.51239
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 0.45949
+                }
+            ]
+        },
+        {
+            "rank_title": "유튜브 문제가 발생했습니다",
+            "google_volume": "10만+\narrow_upward\n1,000%",
+            "naver_trend_sum": 15.46,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.00236
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 15.38995
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.03829
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.01579
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 0.00631
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.00236
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 0.00473
+                }
+            ]
+        },
+        {
+            "rank_title": "차가원",
+            "google_volume": "500+\narrow_upward\n500%",
+            "naver_trend_sum": 76.84,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 5.66421
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 4.74486
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 3.83476
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 27.10248
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 25.7327
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 5.75368
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 4.01061
+                }
+            ]
+        },
+        {
+            "rank_title": "차지연",
+            "google_volume": "2천+\narrow_upward\n50%",
+            "naver_trend_sum": 277.51,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 90.22027
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 70.66699
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 21.81156
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 22.60751
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 34.55297
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 23.27389
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 14.37958
+                }
+            ]
+        },
+        {
+            "rank_title": "김태리",
+            "google_volume": "2천+\narrow_upward\n400%",
+            "naver_trend_sum": 235.63,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 14.43512
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 12.17375
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 10.25482
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 15.13235
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 18.0786
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 100
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 65.55192
+                }
+            ]
+        },
+        {
+            "rank_title": "금잔디",
+            "google_volume": "200+\narrow_upward\n1,000%",
+            "naver_trend_sum": 153.89,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 53.89029
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 35.51243
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 15.79255
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 13.41704
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 16.58542
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 11.48886
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 7.20367
+                }
+            ]
+        },
+        {
+            "rank_title": "안소진",
+            "google_volume": "500+\narrow_upward\n300%",
+            "naver_trend_sum": 0.4,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.02468
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.07404
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 0.06478
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.05553
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 0.05861
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.07095
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 0.05244
+                }
+            ]
+        },
+        {
+            "rank_title": "문상민",
+            "google_volume": "1천+\narrow_upward\n100%",
+            "naver_trend_sum": 354.67,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 23.60298
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 22.9095
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 19.09228
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 30.76375
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 72.93427
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 100
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 85.36423
+                }
+            ]
+        },
+        {
+            "rank_title": "eric dane",
+            "google_volume": "2천+\narrow_upward\n400%",
+            "naver_trend_sum": 2.83,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-20",
+                    "ratio": 1.01854
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 1.04795
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.49998
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 0.26005
+                }
+            ]
+        },
+        {
+            "rank_title": "박진희",
+            "google_volume": "1천+\narrow_upward\n800%",
+            "naver_trend_sum": 22.07,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 0.85601
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 1.69189
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 2.87297
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 1.75691
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 1.60366
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 1.51233
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 11.77672
+                }
+            ]
+        },
+        {
+            "rank_title": "윤하",
+            "google_volume": "500+\narrow_upward\n600%",
+            "naver_trend_sum": 9.91,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 1.95195
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 1.67177
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 1.10522
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 1.25383
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 1.25383
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 1.1594
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 1.51543
+                }
+            ]
+        },
+        {
+            "rank_title": "xg",
+            "google_volume": "500+\narrow_upward\n100%",
+            "naver_trend_sum": 11.47,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 1.0851
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 1.18262
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 1.1238
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 1.27085
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 1.22132
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 1.18726
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 4.3946
+                }
+            ]
+        },
+        {
+            "rank_title": "홍자",
+            "google_volume": "200+\narrow_upward\n1,000%",
+            "naver_trend_sum": 110.7,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 38.20471
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 26.87533
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 9.06278
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 9.09516
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 12.75409
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 8.60226
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 6.10541
+                }
+            ]
+        },
+        {
+            "rank_title": "아너 그녀들의 법정",
+            "google_volume": "100+\narrow_upward\n200%",
+            "naver_trend_sum": 336.28,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 82.07591
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 75.98129
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 40.86346
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 29.22468
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 26.41842
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 23.74887
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 57.96726
+                }
+            ]
+        },
+        {
+            "rank_title": "정동원",
+            "google_volume": "500+\narrow_upward\n100%",
+            "naver_trend_sum": 249.83,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 41.17647
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 23.99712
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 19.39197
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 19.68699
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 19.65101
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 25.92552
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 100
+                }
+            ]
+        }
+    ]
+}
