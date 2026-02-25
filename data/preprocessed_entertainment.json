@@ -7,6 +7,7 @@
             "google_absolute_volume": 5000.0,
             "google_surge_ratio": 900.0,
             "naver_trend_sum": 13.46,
+            "naver_growth_slope": 1.03,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -36,14 +37,14 @@
                     "period": "2026-02-23",
                     "ratio": 10.05864
                 }
-            ],
-            "naver_growth_slope": 1.03
+            ]
         },
         {
             "rank_title": "파반느",
             "google_absolute_volume": 10000.0,
             "google_surge_ratio": 500.0,
             "naver_trend_sum": 231.73,
+            "naver_growth_slope": 11.77,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -73,14 +74,14 @@
                     "period": "2026-02-23",
                     "ratio": 48.76205
                 }
-            ],
-            "naver_growth_slope": 11.77
+            ]
         },
         {
             "rank_title": "청년문화예술패스",
             "google_absolute_volume": 2000.0,
             "google_surge_ratio": 400.0,
             "naver_trend_sum": 20.2,
+            "naver_growth_slope": -0.05,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -110,14 +111,14 @@
                     "period": "2026-02-23",
                     "ratio": 3.1591
                 }
-            ],
-            "naver_growth_slope": -0.05
+            ]
         },
         {
             "rank_title": "윤영경",
             "google_absolute_volume": 5000.0,
             "google_surge_ratio": 900.0,
             "naver_trend_sum": 100.16,
+            "naver_growth_slope": 10.72,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -147,14 +148,14 @@
                     "period": "2026-02-23",
                     "ratio": 100
                 }
-            ],
-            "naver_growth_slope": 10.72
+            ]
         },
         {
             "rank_title": "sydney sweeney",
             "google_absolute_volume": 2000.0,
             "google_surge_ratio": 1000.0,
             "naver_trend_sum": 0.17,
+            "naver_growth_slope": -0.01,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -184,14 +185,14 @@
                     "period": "2026-02-23",
                     "ratio": 0.00576
                 }
-            ],
-            "naver_growth_slope": -0.01
+            ]
         },
         {
             "rank_title": "윤유선",
             "google_absolute_volume": 1000.0,
             "google_surge_ratio": 1000.0,
             "naver_trend_sum": 14.76,
+            "naver_growth_slope": -0.18,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -221,14 +222,14 @@
                     "period": "2026-02-23",
                     "ratio": 0.5866
                 }
-            ],
-            "naver_growth_slope": -0.18
+            ]
         },
         {
             "rank_title": "에반게리온",
             "google_absolute_volume": 1000.0,
             "google_surge_ratio": 200.0,
             "naver_trend_sum": 6.24,
+            "naver_growth_slope": 0.03,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -258,14 +259,14 @@
                     "period": "2026-02-23",
                     "ratio": 1.01965
                 }
-            ],
-            "naver_growth_slope": 0.03
+            ]
         },
         {
             "rank_title": "찬란한 너의 계절에",
             "google_absolute_volume": 5000.0,
             "google_surge_ratio": 400.0,
             "naver_trend_sum": 260.69,
+            "naver_growth_slope": 8.24,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -295,14 +296,14 @@
                     "period": "2026-02-23",
                     "ratio": 19.62016
                 }
-            ],
-            "naver_growth_slope": 8.24
+            ]
         },
         {
             "rank_title": "김규리",
             "google_absolute_volume": 500.0,
             "google_surge_ratio": 600.0,
             "naver_trend_sum": 3.54,
+            "naver_growth_slope": -0.03,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -332,14 +333,14 @@
                     "period": "2026-02-23",
                     "ratio": 0.45949
                 }
-            ],
-            "naver_growth_slope": -0.03
+            ]
         },
         {
             "rank_title": "유튜브 문제가 발생했습니다",
             "google_absolute_volume": 100000.0,
             "google_surge_ratio": 1000.0,
             "naver_trend_sum": 15.46,
+            "naver_growth_slope": -1.1,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -369,14 +370,14 @@
                     "period": "2026-02-23",
                     "ratio": 0.00473
                 }
-            ],
-            "naver_growth_slope": -1.1
+            ]
         },
         {
             "rank_title": "차가원",
             "google_absolute_volume": 500.0,
             "google_surge_ratio": 500.0,
             "naver_trend_sum": 76.84,
+            "naver_growth_slope": 0.68,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -406,14 +407,14 @@
                     "period": "2026-02-23",
                     "ratio": 4.01061
                 }
-            ],
-            "naver_growth_slope": 0.68
+            ]
         },
         {
             "rank_title": "차지연",
             "google_absolute_volume": 2000.0,
             "google_surge_ratio": 50.0,
             "naver_trend_sum": 277.51,
+            "naver_growth_slope": -11.06,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -443,14 +444,14 @@
                     "period": "2026-02-23",
                     "ratio": 14.37958
                 }
-            ],
-            "naver_growth_slope": -11.06
+            ]
         },
         {
             "rank_title": "김태리",
             "google_absolute_volume": 2000.0,
             "google_surge_ratio": 400.0,
             "naver_trend_sum": 235.63,
+            "naver_growth_slope": 12.03,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -480,14 +481,14 @@
                     "period": "2026-02-23",
                     "ratio": 65.55192
                 }
-            ],
-            "naver_growth_slope": 12.03
+            ]
         },
         {
             "rank_title": "금잔디",
             "google_absolute_volume": 200.0,
             "google_surge_ratio": 1000.0,
             "naver_trend_sum": 153.89,
+            "naver_growth_slope": -6.69,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -517,14 +518,14 @@
                     "period": "2026-02-23",
                     "ratio": 7.20367
                 }
-            ],
-            "naver_growth_slope": -6.69
+            ]
         },
         {
             "rank_title": "안소진",
             "google_absolute_volume": 500.0,
             "google_surge_ratio": 300.0,
             "naver_trend_sum": 0.4,
+            "naver_growth_slope": 0.0,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -554,14 +555,14 @@
                     "period": "2026-02-23",
                     "ratio": 0.05244
                 }
-            ],
-            "naver_growth_slope": 0.0
+            ]
         },
         {
             "rank_title": "문상민",
             "google_absolute_volume": 1000.0,
             "google_surge_ratio": 100.0,
             "naver_trend_sum": 354.67,
+            "naver_growth_slope": 14.05,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -591,14 +592,14 @@
                     "period": "2026-02-23",
                     "ratio": 85.36423
                 }
-            ],
-            "naver_growth_slope": 14.05
+            ]
         },
         {
             "rank_title": "eric dane",
             "google_absolute_volume": 2000.0,
             "google_surge_ratio": 400.0,
             "naver_trend_sum": 2.83,
+            "naver_growth_slope": -0.28,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-20",
@@ -616,14 +617,14 @@
                     "period": "2026-02-23",
                     "ratio": 0.26005
                 }
-            ],
-            "naver_growth_slope": -0.28
+            ]
         },
         {
             "rank_title": "박진희",
             "google_absolute_volume": 1000.0,
             "google_surge_ratio": 800.0,
             "naver_trend_sum": 22.07,
+            "naver_growth_slope": 1.11,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -653,14 +654,14 @@
                     "period": "2026-02-23",
                     "ratio": 11.77672
                 }
-            ],
-            "naver_growth_slope": 1.11
+            ]
         },
         {
             "rank_title": "윤하",
             "google_absolute_volume": 500.0,
             "google_surge_ratio": 600.0,
             "naver_trend_sum": 9.91,
+            "naver_growth_slope": -0.08,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -690,14 +691,14 @@
                     "period": "2026-02-23",
                     "ratio": 1.51543
                 }
-            ],
-            "naver_growth_slope": -0.08
+            ]
         },
         {
             "rank_title": "xg",
             "google_absolute_volume": 500.0,
             "google_surge_ratio": 100.0,
             "naver_trend_sum": 11.47,
+            "naver_growth_slope": 0.36,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -727,14 +728,14 @@
                     "period": "2026-02-23",
                     "ratio": 4.3946
                 }
-            ],
-            "naver_growth_slope": 0.36
+            ]
         },
         {
             "rank_title": "홍자",
             "google_absolute_volume": 200.0,
             "google_surge_ratio": 1000.0,
             "naver_trend_sum": 110.7,
+            "naver_growth_slope": -4.61,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -764,14 +765,14 @@
                     "period": "2026-02-23",
                     "ratio": 6.10541
                 }
-            ],
-            "naver_growth_slope": -4.61
+            ]
         },
         {
             "rank_title": "아너 그녀들의 법정",
             "google_absolute_volume": 100.0,
             "google_surge_ratio": 200.0,
             "naver_trend_sum": 336.28,
+            "naver_growth_slope": -6.83,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -801,14 +802,14 @@
                     "period": "2026-02-23",
                     "ratio": 57.96726
                 }
-            ],
-            "naver_growth_slope": -6.83
+            ]
         },
         {
             "rank_title": "정동원",
             "google_absolute_volume": 500.0,
             "google_surge_ratio": 100.0,
             "naver_trend_sum": 249.83,
+            "naver_growth_slope": 6.45,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
@@ -838,8 +839,7 @@
                     "period": "2026-02-23",
                     "ratio": 100
                 }
-            ],
-            "naver_growth_slope": 6.45
+            ]
         }
     ]
 }
