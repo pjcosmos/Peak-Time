@@ -1,202 +1,27 @@
 {
     "category": "climate",
-    "base_date": "2026-02-24",
+    "base_date": "2026-02-25",
     "results": [
-        {
-            "rank_title": "날씨",
-            "google_volume": "20만+\narrow_upward\n200%",
-            "naver_trend_sum": 491.18,
-            "naver_daily_ratio": [
-                {
-                    "period": "2026-02-17",
-                    "ratio": 40.86913
-                },
-                {
-                    "period": "2026-02-18",
-                    "ratio": 51.46125
-                },
-                {
-                    "period": "2026-02-19",
-                    "ratio": 62.80219
-                },
-                {
-                    "period": "2026-02-20",
-                    "ratio": 63.37696
-                },
-                {
-                    "period": "2026-02-21",
-                    "ratio": 72.86193
-                },
-                {
-                    "period": "2026-02-22",
-                    "ratio": 100
-                },
-                {
-                    "period": "2026-02-23",
-                    "ratio": 99.80722
-                }
-            ]
-        },
-        {
-            "rank_title": "내일 날씨",
-            "google_volume": "20만+\narrow_upward\n75%",
-            "naver_trend_sum": 22.12,
-            "naver_daily_ratio": [
-                {
-                    "period": "2026-02-17",
-                    "ratio": 1.29095
-                },
-                {
-                    "period": "2026-02-18",
-                    "ratio": 2.12899
-                },
-                {
-                    "period": "2026-02-19",
-                    "ratio": 1.89574
-                },
-                {
-                    "period": "2026-02-20",
-                    "ratio": 2.34801
-                },
-                {
-                    "period": "2026-02-21",
-                    "ratio": 4.03227
-                },
-                {
-                    "period": "2026-02-22",
-                    "ratio": 4.04173
-                },
-                {
-                    "period": "2026-02-23",
-                    "ratio": 6.3837
-                }
-            ]
-        },
-        {
-            "rank_title": "대구 날씨",
-            "google_volume": "500+\narrow_upward\n100%",
-            "naver_trend_sum": 57.01,
-            "naver_daily_ratio": [
-                {
-                    "period": "2026-02-17",
-                    "ratio": 4.85829
-                },
-                {
-                    "period": "2026-02-18",
-                    "ratio": 6.05584
-                },
-                {
-                    "period": "2026-02-19",
-                    "ratio": 7.09882
-                },
-                {
-                    "period": "2026-02-20",
-                    "ratio": 7.2662
-                },
-                {
-                    "period": "2026-02-21",
-                    "ratio": 8.14116
-                },
-                {
-                    "period": "2026-02-22",
-                    "ratio": 11.12199
-                },
-                {
-                    "period": "2026-02-23",
-                    "ratio": 12.46615
-                }
-            ]
-        },
-        {
-            "rank_title": "weather",
-            "google_volume": "5천+\narrow_upward\n200%",
-            "naver_trend_sum": 0.11,
-            "naver_daily_ratio": [
-                {
-                    "period": "2026-02-17",
-                    "ratio": 0.01145
-                },
-                {
-                    "period": "2026-02-18",
-                    "ratio": 0.0138
-                },
-                {
-                    "period": "2026-02-19",
-                    "ratio": 0.01678
-                },
-                {
-                    "period": "2026-02-20",
-                    "ratio": 0.01664
-                },
-                {
-                    "period": "2026-02-21",
-                    "ratio": 0.01529
-                },
-                {
-                    "period": "2026-02-22",
-                    "ratio": 0.01764
-                },
-                {
-                    "period": "2026-02-23",
-                    "ratio": 0.02126
-                }
-            ]
-        },
         {
             "rank_title": "강풍 경보",
             "google_volume": "20만+\narrow_upward\n600%",
-            "naver_trend_sum": 0.05,
+            "naver_trend_sum": 0.36,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-20",
-                    "ratio": 0.00142
+                    "ratio": 0.01141
                 },
                 {
                     "period": "2026-02-21",
-                    "ratio": 0.00561
+                    "ratio": 0.04507
                 },
                 {
                     "period": "2026-02-22",
-                    "ratio": 0.03307
+                    "ratio": 0.26533
                 },
                 {
                     "period": "2026-02-23",
-                    "ratio": 0.00519
-                }
-            ]
-        },
-        {
-            "rank_title": "일기예보",
-            "google_volume": "500+\narrow_upward\n200%",
-            "naver_trend_sum": 112.53,
-            "naver_daily_ratio": [
-                {
-                    "period": "2026-02-17",
-                    "ratio": 9.95538
-                },
-                {
-                    "period": "2026-02-18",
-                    "ratio": 12.03539
-                },
-                {
-                    "period": "2026-02-19",
-                    "ratio": 13.98709
-                },
-                {
-                    "period": "2026-02-20",
-                    "ratio": 14.44943
-                },
-                {
-                    "period": "2026-02-21",
-                    "ratio": 16.33893
-                },
-                {
-                    "period": "2026-02-22",
-                    "ratio": 22.41442
-                },
-                {
-                    "period": "2026-02-23",
-                    "ratio": 23.34595
+                    "ratio": 0.04165
                 }
             ]
         },
@@ -207,33 +32,68 @@
             "naver_daily_ratio": []
         },
         {
-            "rank_title": "부산날씨",
-            "google_volume": "500+\narrow_upward\n100%",
-            "naver_trend_sum": 439.71,
+            "rank_title": "일기예보",
+            "google_volume": "500+\narrow_upward\n200%",
+            "naver_trend_sum": 131.11,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
-                    "ratio": 39.15153
+                    "ratio": 11.59905
                 },
                 {
                     "period": "2026-02-18",
-                    "ratio": 48.05834
+                    "ratio": 14.02249
                 },
                 {
                     "period": "2026-02-19",
-                    "ratio": 55.39839
+                    "ratio": 16.29642
                 },
                 {
                     "period": "2026-02-20",
-                    "ratio": 55.1491
+                    "ratio": 16.83509
                 },
                 {
                     "period": "2026-02-21",
-                    "ratio": 58.71114
+                    "ratio": 19.03655
                 },
                 {
                     "period": "2026-02-22",
-                    "ratio": 83.23693
+                    "ratio": 26.11514
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 27.20046
+                }
+            ]
+        },
+        {
+            "rank_title": "대구 날씨",
+            "google_volume": "500+\narrow_upward\n100%",
+            "naver_trend_sum": 457.31,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 38.97185
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 48.57829
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 56.94476
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 58.28744
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 65.30611
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 89.2175
                 },
                 {
                     "period": "2026-02-23",
@@ -250,89 +110,31 @@
         {
             "rank_title": "날씨예보",
             "google_volume": "200+\narrow_upward\n100%",
-            "naver_trend_sum": 432.26,
+            "naver_trend_sum": 480.77,
             "naver_daily_ratio": [
                 {
                     "period": "2026-02-17",
-                    "ratio": 35.28193
+                    "ratio": 39.24141
                 },
                 {
                     "period": "2026-02-18",
-                    "ratio": 46.67182
+                    "ratio": 51.90953
                 },
                 {
                     "period": "2026-02-19",
-                    "ratio": 52.78355
+                    "ratio": 58.70715
                 },
                 {
                     "period": "2026-02-20",
-                    "ratio": 54.78325
+                    "ratio": 60.93126
                 },
                 {
                     "period": "2026-02-21",
-                    "ratio": 64.33458
+                    "ratio": 71.55448
                 },
                 {
                     "period": "2026-02-22",
-                    "ratio": 88.49795
-                },
-                {
-                    "period": "2026-02-23",
-                    "ratio": 89.90993
-                }
-            ]
-        },
-        {
-            "rank_title": "天気",
-            "google_volume": "100+\narrow_upward\n300%",
-            "naver_trend_sum": 0.03,
-            "naver_daily_ratio": [
-                {
-                    "period": "2026-02-18",
-                    "ratio": 0.00665
-                },
-                {
-                    "period": "2026-02-20",
-                    "ratio": 0.01064
-                },
-                {
-                    "period": "2026-02-22",
-                    "ratio": 0.00665
-                },
-                {
-                    "period": "2026-02-23",
-                    "ratio": 0.00931
-                }
-            ]
-        },
-        {
-            "rank_title": "울산날씨",
-            "google_volume": "100+\narrow_upward\n400%",
-            "naver_trend_sum": 430.52,
-            "naver_daily_ratio": [
-                {
-                    "period": "2026-02-17",
-                    "ratio": 40.48737
-                },
-                {
-                    "period": "2026-02-18",
-                    "ratio": 47.9602
-                },
-                {
-                    "period": "2026-02-19",
-                    "ratio": 52.97889
-                },
-                {
-                    "period": "2026-02-20",
-                    "ratio": 52.62905
-                },
-                {
-                    "period": "2026-02-21",
-                    "ratio": 55.45697
-                },
-                {
-                    "period": "2026-02-22",
-                    "ratio": 81.00799
+                    "ratio": 98.42955
                 },
                 {
                     "period": "2026-02-23",
@@ -341,14 +143,101 @@
             ]
         },
         {
-            "rank_title": "wind warning",
-            "google_volume": "100+\narrow_upward\n300%",
-            "naver_trend_sum": 0,
-            "naver_daily_ratio": []
+            "rank_title": "오늘의 날씨",
+            "google_volume": "100+\narrow_upward\n100%",
+            "naver_trend_sum": 90.73,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 8.0897
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 9.96846
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 11.97522
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 11.7764
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 12.78032
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 18.73525
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 17.4034
+                }
+            ]
         },
         {
-            "rank_title": "latest earthquake near me",
-            "google_volume": "200+\narrow_upward\n100%",
+            "rank_title": "울산날씨",
+            "google_volume": "100+\narrow_upward\n400%",
+            "naver_trend_sum": 176.31,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-17",
+                    "ratio": 16.58032
+                },
+                {
+                    "period": "2026-02-18",
+                    "ratio": 19.64059
+                },
+                {
+                    "period": "2026-02-19",
+                    "ratio": 21.69583
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 21.55257
+                },
+                {
+                    "period": "2026-02-21",
+                    "ratio": 22.71065
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 33.17427
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 40.95185
+                }
+            ]
+        },
+        {
+            "rank_title": "天気",
+            "google_volume": "100+\narrow_upward\n200%",
+            "naver_trend_sum": 0.01,
+            "naver_daily_ratio": [
+                {
+                    "period": "2026-02-18",
+                    "ratio": 0.00272
+                },
+                {
+                    "period": "2026-02-20",
+                    "ratio": 0.00435
+                },
+                {
+                    "period": "2026-02-22",
+                    "ratio": 0.00272
+                },
+                {
+                    "period": "2026-02-23",
+                    "ratio": 0.00381
+                }
+            ]
+        },
+        {
+            "rank_title": "wind warning",
+            "google_volume": "100+\narrow_upward\n300%",
             "naver_trend_sum": 0,
             "naver_daily_ratio": []
         }

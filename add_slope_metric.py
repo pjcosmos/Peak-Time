@@ -31,7 +31,7 @@ for cat in categories:
             item['naver_growth_slope'] = round(slope, 2)
             
         # 3. 업데이트된 데이터를 기존 JSON 파일에 그대로 덮어쓰기
-        with open(f'preprocessed_{cat}.json', 'w', encoding='utf-8') as f:
+        with open(f'data/preprocessed_{cat}.json', 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
             
         # 4. 눈으로 확인하기 쉽게 CSV 파일도 업데이트하여 저장

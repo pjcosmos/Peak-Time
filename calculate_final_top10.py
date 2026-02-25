@@ -4,13 +4,13 @@ import pandas as pd
 # 4가지 카테고리 목록
 categories = ['climate', 'entertainment', 'finance', 'sports']
 
-# 💡 최적화된 가중치 설정 (Volume 80% / Momentum 20%)
-w_google_vol = 0.40
-w_google_surge = 0.10
-w_naver_sum = 0.40
-w_naver_slope = 0.10
+# 💡 최적화된 가중치 설정 (Volume 70% / Momentum 30%)
+w_google_vol = 0.35
+w_google_surge = 0.15
+w_naver_sum = 0.35
+w_naver_slope = 0.15
 
-print("🏆 최적의 가중치(40:10:40:10)를 적용한 최종 TOP 10 산출을 시작합니다...\n")
+print("🏆 최적의 가중치(35:15:35:15)를 적용한 최종 TOP 10 산출을 시작합니다...\n")
 
 for cat in categories:
     try:
@@ -47,7 +47,7 @@ for cat in categories:
         df_top10 = df.sort_values(by='total_score', ascending=False).head(10)
         
         # 4. 결과 CSV 저장 (사용자가 엑셀에서 보기 편하도록)
-        output_filename = f'result/final_weighted_top10_8020_{cat}.csv'
+        output_filename = f'result/final_weighted_top10_{cat}.csv'
         output_cols = ['rank_title', 'total_score', 'google_absolute_volume', 'google_surge_ratio', 'naver_trend_sum', 'naver_growth_slope']
         df_top10[output_cols].to_csv(output_filename, index=False, encoding='utf-8-sig')
         
