@@ -3,6 +3,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
+os.makedirs('result', exist_ok=True)
+os.makedirs('result/youtube_correlation', exist_ok=True)
+
 # ⚠️ 한글 폰트 설정 (윈도우: 'Malgun Gothic', 맥: 'AppleGothic')
 plt.rcParams['font.family'] = 'Malgun Gothic'
 plt.rcParams['axes.unicode_minus'] = False 
@@ -16,7 +19,6 @@ category_map = {
 }
 
 print("🎥 [유튜브 vs 검색 트렌드] 상관관계 심층 분석을 시작합니다...\n")
-os.makedirs('result/visualize', exist_ok=True)
 
 try:
     all_trend_data = []
@@ -70,7 +72,7 @@ try:
         ax.set_xlabel('통합 트렌드 점수 (Total Score)')
         
     plt.tight_layout()
-    plt.savefig('result/visualize/youtube_correlation_scatter.png', dpi=300)
+    plt.savefig('result/youtube_correlation/youtube_correlation_scatter.png', dpi=300)
     plt.close()
 
     # ==========================================
@@ -85,7 +87,7 @@ try:
     plt.title('트렌드 점수와 유튜브 지표 간의 상관관계 히트맵', fontsize=14, weight='bold', pad=15)
     
     plt.tight_layout()
-    plt.savefig('result/visualize/youtube_correlation_heatmap.png', dpi=300)
+    plt.savefig('result/youtube_correlation/youtube_correlation_heatmap.png', dpi=300)
     plt.close()
 
     print("\n✅ 시각화 완료! (youtube_correlation_scatter.png, youtube_correlation_heatmap.png 생성)")

@@ -9,8 +9,8 @@ plt.rcParams['axes.unicode_minus'] = False
 
 print("🌡️ [카테고리별 유튜브 찐팬 온도계] 데이터 생성을 시작합니다...\n")
 
-os.makedirs('result/web_data', exist_ok=True)
-os.makedirs('result/visualize', exist_ok=True)
+os.makedirs('result/', exist_ok=True)
+os.makedirs('result/youtube_thermometer', exist_ok=True)
 
 # 영문-한글 카테고리 매핑
 category_map = {
@@ -49,7 +49,7 @@ try:
     # 전체 데이터 API로도 하나 저장해 둡니다 (프론트엔드 선택용)
     df_all_sorted = df.sort_values(by='engagement_rate', ascending=False)
     df_all_sorted.to_dict(orient='records')
-    with open('result/web_data/youtube_engagement_all.json', 'w', encoding='utf-8') as f:
+    with open('result/youtube_thermometer/youtube_engagement_all.json', 'w', encoding='utf-8') as f:
         json.dump(df_all_sorted.to_dict(orient='records'), f, ensure_ascii=False, indent=4)
 
     # 4. 카테고리별로 반복하면서 JSON 및 시각화 파일 생성
@@ -62,8 +62,8 @@ try:
         cols = ['keyword', 'avg_view_count', 'avg_like_count', 'avg_comment_count', 'engagement_rate', 'temperature_status']
         df_cat_web = df_cat[cols].copy()
         
-        df_cat_web.to_csv(f'result/web_data/youtube_engagement_{eng_cat}.csv', index=False, encoding='utf-8-sig')
-        with open(f'result/web_data/youtube_engagement_{eng_cat}.json', 'w', encoding='utf-8') as f:
+        df_cat_web.to_csv(f'result/youtube_thermometer/youtube_engagement_{eng_cat}.csv', index=False, encoding='utf-8-sig')
+        with open(f'result/youtube_thermometer/youtube_engagement_{eng_cat}.json', 'w', encoding='utf-8') as f:
             json.dump(df_cat_web.to_dict(orient='records'), f, ensure_ascii=False, indent=4)
         
         # [시각화 생성]
@@ -91,7 +91,7 @@ try:
         plt.legend(handles, color_map.keys(), title='온도(반응도)', loc='lower right')
 
         plt.tight_layout()
-        output_png = f'result/visualize/youtube_thermometer_{eng_cat}.png'
+        output_png = f'result/youtube_thermometer/youtube_thermometer_{eng_cat}.png'
         plt.savefig(output_png, dpi=300)
         plt.close()
         

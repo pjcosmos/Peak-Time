@@ -15,6 +15,7 @@ print("🏆 최적의 가중치(35:15:35:15)를 적용한 최종 TOP 10 산출�
 
 # 👈 추가: result 폴더가 없으면 자동으로 생성 (exist_ok=True는 이미 폴더가 있어도 에러 내지 않음)
 os.makedirs('result', exist_ok=True)
+os.makedirs('result/top10_keyword', exist_ok=True)
 
 for cat in categories:
     try:
@@ -51,7 +52,7 @@ for cat in categories:
         df_top10 = df.sort_values(by='total_score', ascending=False).head(10)
         
         # 4. 결과 CSV 저장 (사용자가 엑셀에서 보기 편하도록)
-        output_filename = f'result/final_weighted_top10_{cat}.csv'
+        output_filename = f'result/top10_keyword/final_weighted_top10_{cat}.csv'
         output_cols = ['rank_title', 'total_score', 'google_absolute_volume', 'google_surge_ratio', 'naver_trend_sum', 'naver_growth_slope']
         df_top10[output_cols].to_csv(output_filename, index=False, encoding='utf-8-sig')
         

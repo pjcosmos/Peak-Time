@@ -3,6 +3,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
+os.makedirs('result', exist_ok=True)
+os.makedirs('result/news_correlation', exist_ok=True)
+
 # ⚠️ 한글 폰트 설정 (윈도우: 'Malgun Gothic', 맥: 'AppleGothic')
 plt.rcParams['font.family'] = 'Malgun Gothic'
 plt.rcParams['axes.unicode_minus'] = False 
@@ -16,9 +19,6 @@ categories = {
 }
 
 print("📰 [대중 트렌드 vs 언론 기사량] 상관관계 분석 시각화를 시작합니다...\n")
-
-# 시각화 이미지를 저장할 폴더 확인
-os.makedirs('result/visualize', exist_ok=True)
 
 try:
     all_data = []
@@ -80,7 +80,7 @@ try:
     
     # 저장
     plt.tight_layout()
-    output_filename = 'result/visualize/correlation_trend_news.png'
+    output_filename = 'result/news_correlation/correlation_trend_news.png'
     plt.savefig(output_filename, dpi=300)
     plt.close()
     

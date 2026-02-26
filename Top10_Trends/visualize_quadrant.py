@@ -20,8 +20,6 @@ color_map = {
 
 print("🎨 [Volume vs Momentum] 포지셔닝 맵 시각화를 시작합니다...\n")
 
-# 👈 추가: 시각화 이미지를 저장할 전용 폴더 생성
-os.makedirs('result/visualize', exist_ok=True)
 
 for cat in categories:
     try:
@@ -69,7 +67,7 @@ for cat in categories:
         
         # 그래프를 여백 없이 꽉 채운 후 이미지 파일(PNG)로 저장
         plt.tight_layout()
-        output_filename = f'result/visualize/quadrant_map_{cat}.png'
+        output_filename = f'result/quadrant/quadrant_map_{cat}.png'
         plt.savefig(output_filename, dpi=300)
         plt.close() # 다음 그래프를 위해 도화지 비우기
         

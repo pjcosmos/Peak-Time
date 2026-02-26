@@ -14,7 +14,7 @@ w_naver_slope = 0.15
 print("🔍 키워드별 [플랫폼 기여도 심층 분석]을 시작합니다...\n")
 
 # 👈 추가: result 폴더가 없으면 자동으로 생성 (exist_ok=True는 이미 폴더가 있어도 에러 내지 않음)
-os.makedirs('result', exist_ok=True)
+os.makedirs('result/platform', exist_ok=True)
 
 for cat in categories:
     try:
@@ -72,7 +72,7 @@ for cat in categories:
             'google_ratio(%)', 'naver_ratio(%)', 'trend_type'
         ]
         
-        output_filename = f'result/analyzed_top10_{cat}.csv'
+        output_filename = f'result/platform/analyzed_top10_{cat}.csv'
         top10[output_cols].to_csv(output_filename, index=False, encoding='utf-8-sig')
         
         print(f"✅ [{cat.upper()}] 심층 분석 완료! ({output_filename})")

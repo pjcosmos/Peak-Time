@@ -18,8 +18,8 @@ categories = {
 print("🌊 [블루오션 / 레드오션 판별기] 데이터 생성을 시작합니다...\n")
 
 # 결과물 저장 폴더 세팅
-os.makedirs('result/web_data', exist_ok=True)
-os.makedirs('result/visualize', exist_ok=True)
+os.makedirs('result/', exist_ok=True)
+os.makedirs('result/ocean_status', exist_ok=True)
 
 try:
     all_data = []
@@ -57,11 +57,11 @@ try:
     df_web = df_all[cols].copy()
     
     # 4. 웹 데이터(API용 JSON 및 CSV) 저장
-    df_web.to_csv('result/web_data/ocean_discriminator.csv', index=False, encoding='utf-8-sig')
+    df_web.to_csv('result/ocean_status/ocean_discriminator.csv', index=False, encoding='utf-8-sig')
     
     # 프론트엔드가 사랑하는 JSON 형태로 변환
     web_json_data = df_web.to_dict(orient='records')
-    with open('result/web_data/ocean_discriminator.json', 'w', encoding='utf-8') as f:
+    with open('result/ocean_status/ocean_discriminator.json', 'w', encoding='utf-8') as f:
         json.dump(web_json_data, f, ensure_ascii=False, indent=4)
         
     print("✅ 웹사이트 API용 데이터(JSON, CSV) 생성 완료!")
@@ -109,7 +109,7 @@ try:
     
     # 이미지 저장
     plt.tight_layout()
-    output_png = 'result/visualize/ocean_discriminator.png'
+    output_png = 'result/ocean_status/ocean_discriminator.png'
     plt.savefig(output_png, dpi=300)
     plt.close()
     

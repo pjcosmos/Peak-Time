@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import os
 
+# 👈 추가: data 폴더가 없으면 자동으로 생성 (exist_ok=True는 이미 폴더가 있어도 에러 내지 않음)
+os.makedirs('data', exist_ok=True)
+
 # 구글 볼륨 문자열에서 '절대 검색량'과 '급상승 비율'을 숫자로 추출하는 함수
 def parse_google_data(vol_str):
     if not isinstance(vol_str, str):

@@ -2,6 +2,9 @@ import json
 import pandas as pd
 import os
 
+os.makedirs('data', exist_ok=True)
+os.makedirs('data/news', exist_ok=True)
+
 # 영문 카테고리명과 뉴스 JSON 파일의 한글 카테고리명 매핑
 category_map = {
     'climate': '기후',
@@ -17,13 +20,13 @@ os.makedirs('result', exist_ok=True)
 
 try:
     # 1. 통합 뉴스 JSON 파일 로드
-    with open('data/news/google_news_grouped_by_category_keyword.json', 'r', encoding='utf-8') as f:
+    with open('raw_data/google_news_grouped_by_category_keyword.json', 'r', encoding='utf-8') as f:
         news_data = json.load(f)
         
     for eng_cat, kor_cat in category_map.items():
         try:
             # 2. 각 카테고리별 TOP 10 CSV 파일 로드
-            df_top10 = pd.read_csv(f'data/raw_data/final_weighted_top10_{eng_cat}.csv')
+            df_top10 = pd.read_csv(f'data/top10_keyword/final_weighted_top10_{eng_cat}.csv')
             
             news_counts = []
             

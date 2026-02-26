@@ -11,13 +11,11 @@ colors = ['#4CAF50', '#E91E63', '#2196F3', '#FF9800'] # 카테고리별 테마 �
 
 print("📊 [TOP 10 랭킹] 수평 막대 그래프 생성을 시작합니다...\n")
 
-# 👈 추가: 시각화 이미지를 저장할 전용 폴더 생성
-os.makedirs('result/visualize', exist_ok=True)
 
 for i, cat in enumerate(categories):
     try:
         # 최종 산출된 CSV 파일 로드
-        df = pd.read_csv(f'result/final_weighted_top10_{cat}.csv')
+        df = pd.read_csv(f'result/top10_keyword/final_weighted_top10_{cat}.csv')
         
         # 수평 막대 그래프는 아래에서부터 그려지므로, 점수를 오름차순 정렬해야 1등이 맨 위로 올라갑니다!
         df = df.sort_values(by='total_score', ascending=True)
@@ -47,7 +45,7 @@ for i, cat in enumerate(categories):
         
         # 여백 최적화 후 이미지 저장
         plt.tight_layout()
-        output_filename = f'result/visualize/top10_bar_{cat}.png'
+        output_filename = f'result/top10_keyword/top10_bar_{cat}.png'
         plt.savefig(output_filename, dpi=300)
         plt.close()
         

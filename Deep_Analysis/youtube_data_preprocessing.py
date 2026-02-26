@@ -2,13 +2,16 @@ import json
 import pandas as pd
 import os
 
+os.makedirs('data', exist_ok=True)
+os.makedirs('data/youtube', exist_ok=True)
+
 print("🎥 [유튜브 데이터 전처리] 키워드 매핑 및 평균 수치 도출을 시작합니다...\n")
 
 try:
     # =====================================================================
     # 1단계: 뉴스 JSON 파일에서 카테고리/키워드 매핑 정보 추출
     # =====================================================================
-    with open('data/news/google_news_grouped_by_category_keyword.json', 'r', encoding='utf-8') as f:
+    with open('raw_data/google_news_grouped_by_category_keyword.json', 'r', encoding='utf-8') as f:
         news_data = json.load(f)
 
     mapping_list = []
@@ -33,7 +36,7 @@ try:
     # =====================================================================
     # 2단계: 유튜브 통합 데이터(Integrated) 매핑
     # =====================================================================
-    yt_integrated = pd.read_csv('data/youtube/youtube_data_integrated.csv')
+    yt_integrated = pd.read_csv('raw_data/youtube_data_integrated.csv')
     
     # 'run_id'와 'keyword_id' 기준으로 병합
     yt_integrated_mapped = pd.merge(yt_integrated, mapping_df, on=['run_id', 'keyword_id'], how='left')
@@ -49,7 +52,7 @@ try:
     # =====================================================================
     # 3단계: 유튜브 요약 데이터(Summary) 매핑
     # =====================================================================
-    yt_summary = pd.read_csv('data/youtube/youtube_keyword_summary.csv')
+    yt_summary = pd.read_csv('raw_data/youtube_keyword_summary.csv')
     
     yt_summary_mapped = pd.merge(yt_summary, mapping_df, on=['run_id', 'keyword_id'], how='left')
     
