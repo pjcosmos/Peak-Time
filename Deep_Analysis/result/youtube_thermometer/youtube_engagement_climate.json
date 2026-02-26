@@ -1,0 +1,66 @@
+[
+    {
+        "keyword": "날씨",
+        "avg_view_count": 5478.7,
+        "avg_like_count": 179.0,
+        "avg_comment_count": 11.7,
+        "engagement_rate": 3.48,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "keyword": "내일 날씨",
+        "avg_view_count": 7991.7,
+        "avg_like_count": 148.3,
+        "avg_comment_count": 8.3,
+        "engagement_rate": 1.96,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "날씨예보",
+        "avg_view_count": 16919.0,
+        "avg_like_count": 221.0,
+        "avg_comment_count": 27.7,
+        "engagement_rate": 1.47,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "일기예보",
+        "avg_view_count": 11633.0,
+        "avg_like_count": 141.7,
+        "avg_comment_count": 27.3,
+        "engagement_rate": 1.45,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "부산날씨",
+        "avg_view_count": 3987.6,
+        "avg_like_count": 51.0,
+        "avg_comment_count": 5.6,
+        "engagement_rate": 1.42,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "대구 날씨",
+        "avg_view_count": 2464.7,
+        "avg_like_count": 28.0,
+        "avg_comment_count": 3.0,
+        "engagement_rate": 1.26,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "강풍 경보",
+        "avg_view_count": 36627.3,
+        "avg_like_count": 143.0,
+        "avg_comment_count": 11.0,
+        "engagement_rate": 0.42,
+        "temperature_status": "🧊 조회수 위주"
+    },
+    {
+        "keyword": "울산날씨",
+        "avg_view_count": 2399.3,
+        "avg_like_count": 0.0,
+        "avg_comment_count": 0.0,
+        "engagement_rate": 0.0,
+        "temperature_status": "🧊 조회수 위주"
+    }
+]

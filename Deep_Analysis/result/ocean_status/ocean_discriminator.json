@@ -1,0 +1,282 @@
+[
+    {
+        "category": "기후",
+        "rank_title": "강풍 경보",
+        "total_score": 50.07,
+        "google_news_count": 2,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "기후",
+        "rank_title": "날씨예보",
+        "total_score": 50.02,
+        "google_news_count": 73,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "기후",
+        "rank_title": "대구 날씨",
+        "total_score": 47.56,
+        "google_news_count": 9,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "기후",
+        "rank_title": "울산날씨",
+        "total_score": 27.1,
+        "google_news_count": 1,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "기후",
+        "rank_title": "일기예보",
+        "total_score": 16.45,
+        "google_news_count": 5,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "기후",
+        "rank_title": "오늘의 날씨",
+        "total_score": 9.01,
+        "google_news_count": 0,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "기후",
+        "rank_title": "wind warning",
+        "total_score": 6.0,
+        "google_news_count": 0,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "기후",
+        "rank_title": "cuaca besok",
+        "total_score": 3.16,
+        "google_news_count": 0,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "기후",
+        "rank_title": "天気",
+        "total_score": 3.0,
+        "google_news_count": 0,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "기후",
+        "rank_title": "thời tiết ngày mai",
+        "total_score": 0.33,
+        "google_news_count": 0,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "유튜브 문제가 발생했습니다",
+        "total_score": 57.46,
+        "google_news_count": 6,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "문상민",
+        "total_score": 51.1,
+        "google_news_count": 83,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "파반느",
+        "total_score": 47.07,
+        "google_news_count": 99,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "찬란한 너의 계절에",
+        "total_score": 44.49,
+        "google_news_count": 0,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "김태리",
+        "total_score": 43.23,
+        "google_news_count": 55,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "아너 그녀들의 법정",
+        "total_score": 38.08,
+        "google_news_count": 61,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "윤영경",
+        "total_score": 38.02,
+        "google_news_count": 18,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "정동원",
+        "total_score": 36.04,
+        "google_news_count": 21,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "금잔디",
+        "total_score": 32.82,
+        "google_news_count": 10,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "엔터테인먼트",
+        "rank_title": "홍자",
+        "total_score": 29.8,
+        "google_news_count": 11,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "김인호",
+        "total_score": 59.34,
+        "google_news_count": 9,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "비트코인",
+        "total_score": 58.97,
+        "google_news_count": 98,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "케이뱅크 공모주",
+        "total_score": 51.51,
+        "google_news_count": 8,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "하이닉스 주가",
+        "total_score": 48.87,
+        "google_news_count": 46,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "엔화",
+        "total_score": 37.6,
+        "google_news_count": 23,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "주식",
+        "total_score": 33.25,
+        "google_news_count": 100,
+        "ocean_status": "🫧 미디어 버블"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "에어로케이",
+        "total_score": 33.12,
+        "google_news_count": 4,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "에스팀",
+        "total_score": 26.08,
+        "google_news_count": 22,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "신영자",
+        "total_score": 25.95,
+        "google_news_count": 5,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "비즈니스 및 금융",
+        "rank_title": "액스비스",
+        "total_score": 25.6,
+        "google_news_count": 23,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "엘에이 fc 대 인터 마이애미",
+        "total_score": 56.44,
+        "google_news_count": 8,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "mls",
+        "total_score": 48.01,
+        "google_news_count": 100,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "챔피언스리그",
+        "total_score": 46.42,
+        "google_news_count": 100,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "인테르",
+        "total_score": 41.83,
+        "google_news_count": 23,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "노시환",
+        "total_score": 41.62,
+        "google_news_count": 75,
+        "ocean_status": "🔴 레드오션"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "토트넘 대 아스널",
+        "total_score": 38.92,
+        "google_news_count": 1,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "레알 에스파냐 대 엘에이 fc",
+        "total_score": 38.92,
+        "google_news_count": 11,
+        "ocean_status": "🔵 블루오션"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "psg 대 메스",
+        "total_score": 30.17,
+        "google_news_count": 1,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "울브스 대 아스널",
+        "total_score": 30.17,
+        "google_news_count": 3,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    },
+    {
+        "category": "스포츠",
+        "rank_title": "맨 시티 대 뉴캐슬",
+        "total_score": 24.97,
+        "google_news_count": 2,
+        "ocean_status": "🏕️ 마이너(잠복기)"
+    }
+]

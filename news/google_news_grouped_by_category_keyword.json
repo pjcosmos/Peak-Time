@@ -1,0 +1,694 @@
+{
+    "기후": {
+        "날씨": {
+            "total_count": {
+                "google": 100
+            },
+            "articles": [
+                {
+                    "article_id": 1,
+                    "run_id": 1,
+                    "keyword_id": 1,
+                    "title": "‘반짝 추위’ 물러가고 주말까지 포근한 봄 날씨 - 조선일보",
+                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGpqZTZpTGVwSmtPVmJNT2hJUVJnWkxabmpiTTN0aTFYdjNCS3J5UHp4TmoweE5FWEJ6eWlETHlQbVlTWjhSalp4NG5VYVU0Rlc0WWo2dXBINURTcU9pZFNyQWFOZkxrQjJveVZYUHFleGFUWDRGZnBudkdwbllxM1RVTENWWkRFaEQwV0Y5blNXQVFzNUk40gGrAUFVX3lxTE53U2tETHdBWVJDRi1SdDFtRGd4aldmd1Zyc3RuSVVZa0FFMGpLOFhnUnBGXzgxcHk2SnRacDlaa2Y2ZnZNdXdMU2lfYktudXBnU1RXQkJjUHBMaHRob1FMNzI4d05SRmUzMXV2OXRicmEzYWc2SHVyZ01PZ3JfeWk0QjNpVjVJcjNYbGs0OUpTMUxsZzlVb3BXd3pzUU0wOFhXVmlvRnBseE44dw?oc=5",
+                    "publisher": "조선일보",
+                    "published_at": "2026-02-25 13:07",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "울산날씨": {
+            "total_count": {
+                "google": 1
+            },
+            "articles": [
+                {
+                    "article_id": 2,
+                    "run_id": 1,
+                    "keyword_id": 2,
+                    "title": "[오늘의 날씨] 울산(25일, 수)…아침까지 눈·비, 해상 높은 물결 - 뉴스1",
+                    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uY1VUcDlmWktEelh0TmtOeHVOTHNlVXRFZzRQSGVoM3pzUS0yLWJiOVUwR0w3Q0tzM1RmeElzZ1Q5cDV6bDV4Vzh6Qm5Lb1V1d1E?oc=5",
+                    "publisher": "뉴스1",
+                    "published_at": "2026-02-25 05:00",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "강풍 경보": {
+            "total_count": {
+                "google": 2
+            },
+            "articles": [
+                {
+                    "article_id": 3,
+                    "run_id": 1,
+                    "keyword_id": 3,
+                    "title": "청주국제공항 제주노선 일부 결항 발생 - 천지일보",
+                    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FTG5uUUdNNVJxZUYwNzZmTDQzZDlCbjIybURvWnBBVVZQcTRRNWtOMTFVdS1XOHYxVlhCRTR6dzBQdElLc05UVjhVZGtlWlRPWFFCLXd5Sy1jNWlLS3pmOWJwVG1uNzFDaVE?oc=5",
+                    "publisher": "천지일보",
+                    "published_at": "2026-02-24 17:09",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "부산날씨": {
+            "total_count": {
+                "google": 3
+            },
+            "articles": [
+                {
+                    "article_id": 4,
+                    "run_id": 1,
+                    "keyword_id": 4,
+                    "title": "부산날씨 \"5cm이상 눈\" 대구에도 눈, 내일날씨는 - gukjenews.com",
+                    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZ2RsTS1FTVFJWjduRkZwa0g0S2hQY1NsQXJVNUNEZ1pma2pWR3czd1YyTXRPR3gzaGVJY3J4cmlPUzBqR0k2S2tKZUpIWEhOTmNPRWl3N2dOV280THZTSTd0dlFmQ2o4Z1c3Nk53?oc=5",
+                    "publisher": "gukjenews.com",
+                    "published_at": "2026-02-24 22:01",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "날씨예보": {
+            "total_count": {
+                "google": 73
+            },
+            "articles": [
+                {
+                    "article_id": 5,
+                    "run_id": 1,
+                    "keyword_id": 5,
+                    "title": "2월 25일 날씨 예보: 북부 지역에 소나기와 천둥번개가 예상되니 토네이도와 번개에 주의하세요. - Vietnam.vn",
+                    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3FXWTdoMmdFa1VkcnRJTlkxMTlTWVlwMFdlV29oVGttTWJRTWdKR1F1TmVKc0R6b3RYeGlOU1RnZ2htSWN1dDhGTTJPQTJoM2pfQ19oZGZnc0Z2dWRoM3M1d3c1cmRydkxUNnBKOUc1WkxaeG4xMnlHaWNmMTBmOW5Td3l2cFJRWGc4RkFDU1hFRFkyZjVTN0JR?oc=5",
+                    "publisher": "Vietnam.vn",
+                    "published_at": "2026-02-25 11:15",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "내일 날씨": {
+            "total_count": {
+                "google": 57
+            },
+            "articles": [
+                {
+                    "article_id": 6,
+                    "run_id": 1,
+                    "keyword_id": 6,
+                    "title": "[내일날씨] 낮 최고 10∼16도…전국 대체로 흐림 - v.daum.net",
+                    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NWlVyejd2bEJ6aVpXY0VLYl82clJVUUJjdnNZUGNMVDJ3bjJMUlZuaFNlRDBFZ0F6eHlWRWJRQWdwcEhPVkxWb253eTZaVDA?oc=5",
+                    "publisher": "v.daum.net",
+                    "published_at": "2026-02-25 11:30",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "일기예보": {
+            "total_count": {
+                "google": 5
+            },
+            "articles": [
+                {
+                    "article_id": 7,
+                    "run_id": 1,
+                    "keyword_id": 7,
+                    "title": "2월 25일 일기예보: 여러 지역에 걸쳐 광범위한 뇌우가 예상됩니다. - Vietnam.vn",
+                    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmNwYmZha000ZmxCTlgwVkFsd0F2SUsydkNmRVNMU2V5SHVCSWhHbE5sUktTUG40SDNuOTZiX21jTXRTb1dUWE94aXZraEpzc2NvSlE3bWszbHF3Yk1MZk5YWnlUaG1rY3hRZXZVMDFvYS0xLXhTd25mbk9xQmVPODlQQQ?oc=5",
+                    "publisher": "Vietnam.vn",
+                    "published_at": "2026-02-25 10:33",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "대구 날씨": {
+            "total_count": {
+                "google": 9
+            },
+            "articles": [
+                {
+                    "article_id": 8,
+                    "run_id": 1,
+                    "keyword_id": 8,
+                    "title": "대구·경북 대체로 흐림···낮 최고 11~15도 - 대구MBC",
+                    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lVU1pMmpCRnlEMkFtNmpmTFZRWm1fMDRGcnQtdjZCbHhYaVkwdmNLUTV0VmZfNWdkVTl2cDhhOGI1aTRfMWxqcjl3TTA?oc=5",
+                    "publisher": "대구MBC",
+                    "published_at": "2026-02-25 11:13",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        }
+    },
+    "엔터테인먼트": {
+        "유튜브 문제가 발생했습니다": {
+            "total_count": {
+                "google": 6
+            },
+            "articles": [
+                {
+                    "article_id": 9,
+                    "run_id": 2,
+                    "keyword_id": 9,
+                    "title": "유튜브 접속 장애 발생, \"원인은 추천 시스템 오류\" - 인벤",
+                    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiRUxPbmswWEtDNjdBUWJaZElmSUxILXYzMmpJUWdVeklBLW03Z0hlaHllRFBoQThDUkV0TV9hamhwQWxVenc4Y3o0b3FNZ240R281UHp4V2tyZlRialE?oc=5",
+                    "publisher": "인벤",
+                    "published_at": "2026-02-25 11:10",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "문상민": {
+            "total_count": {
+                "google": 83
+            },
+            "articles": [
+                {
+                    "article_id": 10,
+                    "run_id": 2,
+                    "keyword_id": 10,
+                    "title": "'파반느' 문상민 \"고아성 말에 버스정류장서 펑펑 울어..잘하고 싶었다\" [인터뷰②] - v.daum.net",
+                    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TSjRLdDRBbElDaXltcV9yM0dRa2VzMXRXeGkwb0hmcXc0WGoxZUFGSnUwN0tuVTNxMG8zb21fQWVkYi1aaHRXWktXRlNSMjQ?oc=5",
+                    "publisher": "v.daum.net",
+                    "published_at": "2026-02-25 11:48",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "파반느": {
+            "total_count": {
+                "google": 99
+            },
+            "articles": [
+                {
+                    "article_id": 11,
+                    "run_id": 2,
+                    "keyword_id": 11,
+                    "title": "'파반느' 문상민 \"고아성 말에 버스정류장서 펑펑 울어..잘하고 싶었다\" [인터뷰②] - v.daum.net",
+                    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TSjRLdDRBbElDaXltcV9yM0dRa2VzMXRXeGkwb0hmcXc0WGoxZUFGSnUwN0tuVTNxMG8zb21fQWVkYi1aaHRXWktXRlNSMjQ?oc=5",
+                    "publisher": "v.daum.net",
+                    "published_at": "2026-02-25 11:48",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "부산찬란한 너의 계절에": {
+            "total_count": {
+                "google": 4
+            },
+            "articles": [
+                {
+                    "article_id": 12,
+                    "run_id": 2,
+                    "keyword_id": 12,
+                    "title": "이성경, 채종협의 '찬란 앓이' 본격 시작 [찬란한 너의 계절에] - 네이트",
+                    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kRDg2bGFVRGVCNkVRZ2VIbGN6V1JEaDd6UFZLVm0tSXZXbDIyWGJ6ZWROYXZBYk0wZWJwT1dFRGNWT01PNjBrVWJBMThoNkprcktr?oc=5",
+                    "publisher": "네이트",
+                    "published_at": "2026-02-25 00:01",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "김태리": {
+            "total_count": {
+                "google": 55
+            },
+            "articles": [
+                {
+                    "article_id": 13,
+                    "run_id": 2,
+                    "keyword_id": 13,
+                    "title": "김태리, 요정이 있는 곳이 리틀 포레스트 [O! STAR 숏폼] - 조선일보",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMGNJT0dBN2s3OERrQThUNUZXYUk1V2h3V2tVbEJRQUU5NmNvVEwwOEtqM1ZTV1E3SGdOM0o3ZTRIMVlTOHl2Q0c2NUtqV1ppc3pvMG85d2poZVd2YTBURUZYRnpJbGVFRjJ4TkplUHRzaDRIdnpZTE43UDhjci1DeEhKODloZmFQRWxvY3RiZ9IBowFBVV95cUxOay1KU2VfZzdJR2hPYjdhNktLdmZWT3c0YWVmVGJvTHEzOWl4clZYZndIenBycU9VcGRVaGlGUDBjcWhwSHBwaHVnVGNNZ0EzdVNzdDc2NkI3bkpfM2MwZ0pTc3FPUzhncGlURmlweUg0SGd1LUFrdHQ1aU1tdkxJUWZnVWVhYUhuajVfeHMxdnNEN1FTcERNdDlpYmJfY2FqWXB3?oc=5",
+                    "publisher": "조선일보",
+                    "published_at": "2026-02-25 12:20",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "아너 그녀들의 법정": {
+            "total_count": {
+                "google": 61
+            },
+            "articles": [
+                {
+                    "article_id": 14,
+                    "run_id": 2,
+                    "keyword_id": 14,
+                    "title": "ENA 월화드라마 이나영의 각성, ‘커넥트인’ 폭로로 진실 추적 2라운드 돌입 - kstars.kr",
+                    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBlczhsYUp6T2RpQzktTVZhaTNndzMzcVJUN01vTnpDZTU1eUtCVGhkTlRfVG5zQTFsd3E2bUw3Wl9IQQ?oc=5",
+                    "publisher": "kstars.kr",
+                    "published_at": "2026-02-25 13:27",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "윤영경": {
+            "total_count": {
+                "google": 18
+            },
+            "articles": [
+                {
+                    "article_id": 15,
+                    "run_id": 2,
+                    "keyword_id": 15,
+                    "title": "'남창희♥' 윤영경, 정체 밝혀진 후 결혼식 현장 공개...아이유 닮은 공주님 - 아이뉴스24",
+                    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZR0xkUEJFcTVHdWpMTmtiZXFERDhsMzBGNGU2VDIzekxFbzZ3SHpBbjF5M241YzhLQWQ5NzNZcUNfbjlUbFE?oc=5",
+                    "publisher": "아이뉴스24",
+                    "published_at": "2026-02-24 21:08",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "정동원": {
+            "total_count": {
+                "google": 21
+            },
+            "articles": [
+                {
+                    "article_id": 16,
+                    "run_id": 2,
+                    "keyword_id": 16,
+                    "title": "정동원, 귀여움도 카리스마도 다잡은 '검은 고양이 네로' 무대 '사랑의 콜센타' - 톱스타뉴스",
+                    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1Umh4MmUzbmF0eEo3MXUxNDAzeWd6RFIwVWdnS0ZPdUd0MkJqMEx2ekNFdFBKMFd3TUk5SXJfbXJjVEQ3aVdDeG1EME1YVHpLemYxUEtySUl2T3hDSEVBd1V2LVMzbEdzZERsMF9YdnpEQQ?oc=5",
+                    "publisher": "톱스타뉴스",
+                    "published_at": "2026-02-25 05:05",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "금잔디": {
+            "total_count": {
+                "google": 10
+            },
+            "articles": [
+                {
+                    "article_id": 17,
+                    "run_id": 2,
+                    "keyword_id": 17,
+                    "title": "'현역가왕3', 결승 진출 10人 확정→금잔디 기적 생존 결승行...최고 13.2% [종합] - 아이즈(ize)",
+                    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MTi1SZ0VlUEctU3AxeEx6bHFyZEFYZXRwSm9raDNud3pJRUxOV0JtcGpMWGw4OEU3X2xDbEdNci1DaDFOeGxlMjFHc21FaGdfQ3MyVXZ4ZFYtV1NyQVJNRHJVcDVWY3FTaFHSAWpBVV95cUxOTE4tUmdFZVBHLVNwMXhMemxxcmRBWGV0cEpva2gzbnd6SUVMTldCbXBqTFhsODhFN19sQ2xHTXItQ2gxTnhsZTIxR3NtRWhnX0NzMlV2eGRWLVdTckFSTURyVXA1VmNxU2hR?oc=5",
+                    "publisher": "아이즈(ize)",
+                    "published_at": "2026-02-25 12:00",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "홍자": {
+            "total_count": {
+                "google": 11
+            },
+            "articles": [
+                {
+                    "article_id": 18,
+                    "run_id": 2,
+                    "keyword_id": 18,
+                    "title": "이수연-차지연-홍지윤-구수경-빈예서-솔지-강혜연-김태연-홍자-금잔디, 결승 진출('현역가왕3') - 뉴스컬처",
+                    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wMlpjYTNvUlU0S2Z5LWJVZmV2RENPaUVUYlJPNUtwQ0diS0JEUE1GNENueXZBdDdKeXNBa1M1cm9qR2xUZktTdzZpQ0lwdFhvTmZaU19Qd2NSdDBNcjNyY3Q1R25zdw?oc=5",
+                    "publisher": "뉴스컬처",
+                    "published_at": "2026-02-25 09:26",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        }
+    },
+    "비즈니스 및 금융": {
+        "김인호": {
+            "total_count": {
+                "google": 9
+            },
+            "articles": [
+                {
+                    "article_id": 19,
+                    "run_id": 3,
+                    "keyword_id": 19,
+                    "title": "‘음주운전 혐의’ 김인호 산림청장 경질 - 한국농어민신문",
+                    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vMFR2dFpGazZBdFBJN3NuMGRHQS16UTJRY29ZcjQ5YlVCVnlmb2VZMmpnNEZEZTBfLXBhczMwWWprcmxHSFgwWUtUQnNwLUpkMEd2cjQwaXFDbEdRMzdRdjJicXlUUGdsYTZ0Vg?oc=5",
+                    "publisher": "한국농어민신문",
+                    "published_at": "2026-02-24 18:30",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "비트코인": {
+            "total_count": {
+                "google": 98
+            },
+            "articles": [
+                {
+                    "article_id": 20,
+                    "run_id": 3,
+                    "keyword_id": 20,
+                    "title": "비트코인, 2월 24% 하락…2022년 테라 사태 후 최악 - 지디넷코리아",
+                    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12cnVHaHdodS1hV1BqMVl4NHZfX1VlQU5ZVUU0d01fQmlTbDZOS05taWs5U2w5aGhoMDI2c1hWbjI4ei1hQkkta1J4VEpzX09rajU1R2FR?oc=5",
+                    "publisher": "지디넷코리아",
+                    "published_at": "2026-02-25 10:55",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "케이뱅크 공모주": {
+            "total_count": {
+                "google": 8
+            },
+            "articles": [
+                {
+                    "article_id": 21,
+                    "run_id": 3,
+                    "keyword_id": 21,
+                    "title": "[공모주 산책] 케이뱅크 공모주 청약, 균등 10주 이상 배정…환불금 ‘제로’ 나온 이례적 결과 - CBC뉴스",
+                    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfdXFfYVhoOThMWEFDUVRJUm9EYks0R0otTml2TzVsQ1BhbjF1c1czSndnZzJXM0RTQU5oY1VJNUdCS21mend3Q1FmN2I4V2FFdzBQa2VfOXNER0ZnbUdSNHludFVldFJC?oc=5",
+                    "publisher": "CBC뉴스",
+                    "published_at": "2026-02-25 10:09",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "하이닉스 주가": {
+            "total_count": {
+                "google": 46
+            },
+            "articles": [
+                {
+                    "article_id": 22,
+                    "run_id": 3,
+                    "keyword_id": 22,
+                    "title": "코스피 사상 첫 6000선 돌파…증시 새 역사 - 한국경제",
+                    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GN2QtdzRaczJla3RNdlVRN1BnUmxJQW95b19CRlVtN1BQMWxpdDFETXB4akM5djBTS1NSX3hXdW9tTnFCRzdxa1ExRHhzczdCdnFpLdIBVEFVX3lxTE1GN2QtdzRaczJla3RNdlVRN1BnUmxJQW95b19CRlVtN1BQMWxpdDFETXB4akM5djBTS1NSX3hXdW9tTnFCRzdxa1ExRHhzczdCdnFpLQ?oc=5",
+                    "publisher": "한국경제",
+                    "published_at": "2026-02-25 09:11",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "엔화": {
+            "total_count": {
+                "google": 23
+            },
+            "articles": [
+                {
+                    "article_id": 23,
+                    "run_id": 3,
+                    "keyword_id": 23,
+                    "title": "원-엔화 환율, 5원 이상 급락하면서 920원 대 무너져…달러-엔화 환율도 155엔 후반대로 소폭 하락 - 산업일보",
+                    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NVnU5aWgyVVZvM3cyRDIyOXJGWUhlZmxNYjB4V0FGbE5FX29rQlh6OTg5NHRPT0NaX2ZqNGV5cHF5bmtU?oc=5",
+                    "publisher": "산업일보",
+                    "published_at": "2026-02-25 13:20",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "주식": {
+            "total_count": {
+                "google": 100
+            },
+            "articles": [
+                {
+                    "article_id": 24,
+                    "run_id": 3,
+                    "keyword_id": 24,
+                    "title": "[기자수첩] 주식으로 번 돈 집 산다 - 브릿지경제",
+                    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1takFtdkFrbHRxQTFGOWw0V1BoNDNlSWZ2bG44UFJHdDVKUnFXYm82M1lZX3RyaDdKUmc0SlVzQ3BfcmFzMEstdUVuZjFMei1jS2tFVnlMTjVNQQ?oc=5",
+                    "publisher": "브릿지경제",
+                    "published_at": "2026-02-25 10:34",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "에어로케이": {
+            "total_count": {
+                "google": 4
+            },
+            "articles": [
+                {
+                    "article_id": 25,
+                    "run_id": 3,
+                    "keyword_id": 25,
+                    "title": "에어로케이항공, 청주-후쿠오카 노선 일 2회 증편 운항 - 뉴스체크",
+                    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ob193ZlV2YmFrOVk3d3VHY2lUU0xkN3paUU9nS1ROMGpOSENzZ1FleVJOUGtxVVU1b3daYzdOODAtSWFGU3l1aUZWQ3pQdFZSeGVrZXZpUWdYdDN2eHNEd3ZUQjh6QS1reUM0eNIBcEFVX3lxTE0zaEg2OTZiS2xNTmo2OWJBZU8xeXhjVU56UUtpLU1vX0o2ZEt5b0U1WmFLVzUzSGluM1VObG5xcHU4enFWaDdmd2ZSa0dVT2JmUE4tLWUwNzhpUkZFYjhha2E1LWZRLUJERUxHTTJxRDc?oc=5",
+                    "publisher": "뉴스체크",
+                    "published_at": "2026-02-24 20:07",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "에스팀": {
+            "total_count": {
+                "google": 22
+            },
+            "articles": [
+                {
+                    "article_id": 26,
+                    "run_id": 3,
+                    "keyword_id": 26,
+                    "title": "에스팀, 일반 청약 경쟁률 1960.87 대 1 기록…3월 6일 코스닥 상장 - 핀포인트뉴스",
+                    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43N3dJVG14RHNtcGsxR2ZoQkx3Z2JRSzBPU3VUOGp4Q3V1eVNfUDNZWW14YzI3dTdpeEtjMl9lRjBxOWl1RjRUSW85dFM5S1R5NFFTTGMxX1ZBMHN1WGl4SS1HQy02WlFuS1NCUHk1NkN5VkXSAXdBVV95cUxNVlhmT2Z5YmNEM1IwNzJMdEw1UXpQZ1h5OHhGeG8wTjZxMExKNDdHTUlNa2tNTnZYRE5JSzdHUHExVmRkOHVJRTdZTTBoN3BVOUVqS2xxRXNQUlpGdlFFS1Y4LVllLWFhTFpfX2dsRXF2MF8wcE5Lcw?oc=5",
+                    "publisher": "핀포인트뉴스",
+                    "published_at": "2026-02-25 07:46",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "신영자": {
+            "total_count": {
+                "google": 5
+            },
+            "articles": [
+                {
+                    "article_id": 27,
+                    "run_id": 3,
+                    "keyword_id": 27,
+                    "title": "[재계 인사이드] 롯데그룹 신영자 의장의 선택과 LG가(家)의 문제 - 뉴스투데이",
+                    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVZmV0ZTFvUGtJQ2R6cUpvaHpRay1xNG5FTERRU0hyMkpLRWUwa2FJd1U4bzd3czNPWlNpQVU2ajlpcHh1WHFxTG4tM3dyTkplWDlLdmRFUlg?oc=5",
+                    "publisher": "뉴스투데이",
+                    "published_at": "2026-02-25 00:59",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "액스비스": {
+            "total_count": {
+                "google": 23
+            },
+            "articles": [
+                {
+                    "article_id": 28,
+                    "run_id": 3,
+                    "keyword_id": 28,
+                    "title": "액스비스, 일반 청약 경쟁률 2711 대 1 기록...3월9일 코스닥 상장 - 핀포인트뉴스",
+                    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94LTluRW81TVZxZHhGRGtUOVY3WWFUamY3WG83Z1R0blFpdWRKQVB1ZnMtcUtFNUkycklXS2lSQ1MwSGFreTl0WGl0Q2Fxc28zZ3NqTl96NXphZnFmZEtWclBOVjFveUY3aHdrRWppdnh1aDhYZHRN0gF3QVVfeXFMT3gtOW5FbzVNVnFkeEZEa1Q5VjdZYVRqZjdYbzdnVHRuUWl1ZEpBUHVmcy1xS0U1STJySVdLaVJDUzBIYWt5OXRYaXRDYXFzbzNnc2pOX3o1emFmcWZkS1ZyUE5WMW95Rjdod2tFaml2eHVoOFhkdE0?oc=5",
+                    "publisher": "핀포인트뉴스",
+                    "published_at": "2026-02-25 07:58",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        }
+    },
+    "스포츠": {
+        "엘에이 fc 대 인터 마이애미": {
+            "total_count": {
+                "google": 8
+            },
+            "articles": [
+                {
+                    "article_id": 29,
+                    "run_id": 4,
+                    "keyword_id": 29,
+                    "title": "손흥민, 메시와 대결서 3-0 승…MLS 올 시즌 첫 도움 - 한겨레",
+                    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPY3JLZzJ3M1d4NGZTdnZLRkdxd2dsRzZCQXZiZkJPZXF2OXVNNDE4RGtwUzdSTWdfeHA4cUdxUDVXR1JzTUEwM3lIOElYbHVPT3RYOFB1TFpxZlphc2JLQjNHNHA?oc=5",
+                    "publisher": "한겨레",
+                    "published_at": "2026-02-22 14:39",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "mls": {
+            "total_count": {
+                "google": 100
+            },
+            "articles": [
+                {
+                    "article_id": 30,
+                    "run_id": 4,
+                    "keyword_id": 30,
+                    "title": "메시가 MLS의 놀라운 관중 기록 경신에 기여했다. - Vietnam.vn",
+                    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xdjJlbEpzZ0J4NzFUblhkOEpLdFFKY0Z4SkZSVXhqV1EtQ0JFTEFSdU8xcXhwR2xJcjlsQUNsWlVpMFliZE1KczgySnNGWXJXVVl6bEF4UGRNQUZwNHRuRWR2NTJoZzRyblU5OFpZWlVWYVRUVW96cTdrMUZyUQ?oc=5",
+                    "publisher": "Vietnam.vn",
+                    "published_at": "2026-02-25 13:48",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "챔피언스리그": {
+            "total_count": {
+                "google": 100
+            },
+            "articles": [
+                {
+                    "article_id": 31,
+                    "run_id": 4,
+                    "keyword_id": 31,
+                    "title": "‘인구 5만명 어촌’ 보되의 기적…창단 109년만에 챔피언스리그 16강 - 서울신문",
+                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWdzTkpGRk44aEZ0eFBwdV9xcmxQSU1wRTdidlZfRnY5ZHFBY3BMMWZpbEpwZnBlRGdNMWl6TU41M0E1dnlsYzNoS1d3czBiVkVfOHJvSmJabC10bVJhWXFYX19zWUJkN3hKUFVqbXo4c01VUDVRdmI1cWllTmZMSUJDYVVhYnBr?oc=5",
+                    "publisher": "서울신문",
+                    "published_at": "2026-02-25 08:54",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "인테르": {
+            "total_count": {
+                "google": 23
+            },
+            "articles": [
+                {
+                    "article_id": 32,
+                    "run_id": 4,
+                    "keyword_id": 32,
+                    "title": "보되/글림트 UCL 돌풍 계속, 인테르 밀란 주저앉히며 첫 16강 진출 감격 - v.daum.net",
+                    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VZTNUOGRLbGlCTnh0ekpCaFh2QTNYbk5QM0FjTEtZdFlUel9OUHlKYTNNRk1XdW1rdjVvN3FHSGJOaFplTHc?oc=5",
+                    "publisher": "v.daum.net",
+                    "published_at": "2026-02-25 09:22",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "토트넘 대 아스널": {
+            "total_count": {
+                "google": 1
+            },
+            "articles": [
+                {
+                    "article_id": 33,
+                    "run_id": 4,
+                    "keyword_id": 33,
+                    "title": "강등을 피하기 위해 2억 유로를 쏟아부은 토트넘에 도대체 무슨 일이 벌어지고 있는 걸까요? - Vietnam.vn",
+                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2Q3RUs5NkhhSlZPZkhvNkxoMjgyQzZFVVhMd1l4cFFrWDg4Vy1rUUx1V2I1eW1EVUlyVnRCM1d3RmFNcDVMZVFpSFZaai15SWozem8wWV9HMDFkZTF0WmZzdXJVWHZjZk02aGYwWUpMeW9EOGp6LW5CRzQyYVVndk5rWUtkWVgxY2VlYzUtODdENnNxdkxqTzdVN2s?oc=5",
+                    "publisher": "Vietnam.vn",
+                    "published_at": "2026-02-24 16:34",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "노시환": {
+            "total_count": {
+                "google": 75
+            },
+            "articles": [
+                {
+                    "article_id": 34,
+                    "run_id": 4,
+                    "keyword_id": 34,
+                    "title": "한화는 길 열어줬는데…노시환 미국행, 'MLB 직장폐쇄'가 최대 변수? - 네이트 스포츠",
+                    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pcWVTc2dxT3NzSldRaTBDNmcxelZMU1c2MDI3WkV5elZIeWxmNGFuODE5UnRHMHdMNWZxN3RqYXh6VEkyZldZNmFrRVI1eDNuS3lwMkNGLTV6bWJN?oc=5",
+                    "publisher": "네이트 스포츠",
+                    "published_at": "2026-02-25 06:22",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "레알 에스파냐 대 엘에이 fc": {
+            "total_count": {
+                "google": 11
+            },
+            "articles": [
+                {
+                    "article_id": 35,
+                    "run_id": 4,
+                    "keyword_id": 35,
+                    "title": "손흥민도 1.8군으로는 무리인가? 45분만에 5골 넣던 팀 맞나…선발 8자리 교체한 LAFC, 레알 에스파냐와 0-0으로 전반 종료 - 네이트 스포츠",
+                    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyaTRqVUxHTFJERHFXMEVvSGdCNFdVU0FScmstaXNUUUtPRGs1TEFrcnJMQUxGVG5fTDJiN3dCTnhTOUdCZ2l4bGVMRC05a1FIcXZZQWUxTTBIZFJt?oc=5",
+                    "publisher": "네이트 스포츠",
+                    "published_at": "2026-02-25 12:56",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "psg 대 메스": {
+            "total_count": {
+                "google": 1
+            },
+            "articles": [
+                {
+                    "article_id": 36,
+                    "run_id": 4,
+                    "keyword_id": 36,
+                    "title": "[유럽축구 빅리그 한국선수 주말경기] 이강인의 PSG, 다시 선두 탈환할 수 있을까 - 뉴시안",
+                    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSNTd4cVBIbXRTYXNiZ29pREdQem1LS3l6UkdGRWs5Vi1LNTRacE94NkZycTJSdkxtQ2RjTU1XY1dTRUZpTmRTRy04VzI1QXRwMjZqTzgyT3JMTzN3bTBvd1BmMWJhY2YzTnfSAW5BVV95cUxQWlg2akdEdW9VU1hpTWtaR1ZLSWQtMFZ2cENQZENGUjJ0amtBR1k0X3U2YlNNLXdlSmYwVFpMVnBzbG42ekJkb0oxaHlydXBkZER5bmNRQkk4VnRhN2xDM21qcGlVMWZrTHFDampkdw?oc=5",
+                    "publisher": "뉴시안",
+                    "published_at": "2026-02-20 08:03",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "울브스 대 아스널": {
+            "total_count": {
+                "google": 3
+            },
+            "articles": [
+                {
+                    "article_id": 37,
+                    "run_id": 4,
+                    "keyword_id": 37,
+                    "title": "[PL 31R] '꼴찌도 못 이기네' 아스널, '94분 극장 자책골 헌납' 울브스와 2-2 무…2위 맨시티와 5점 차 - v.daum.net",
+                    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4djlNOGJxVzBIRDR2Y1pldjZKN0ZIYnFJa1pvVVprNV9CLXlFdXNIQnBROC1hYXFHNG9EWDd1TXVlYnR1ajVtcmtISnFJZ0JWa2hwZw?oc=5",
+                    "publisher": "v.daum.net",
+                    "published_at": "2026-02-19 09:50",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        },
+        "맨 시티 대 뉴캐슬": {
+            "total_count": {
+                "google": 2
+            },
+            "articles": [
+                {
+                    "article_id": 38,
+                    "run_id": 4,
+                    "keyword_id": 38,
+                    "title": "\"5연승 챌린지, 이렇게 길어질 줄 몰랐다\"…'어느새 500일 돌파' 맨유, 11경기서 결과 못 내면 '688일'로 훌쩍 점프 - 네이트",
+                    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WcjRIQk9RWUlyNDZWM0dvRzlGQ2RqUkFReTg0LVZ5Q0pIQ3c5RDNiTkw4SUN0M2MxMTk4U25uUHpMYUJ1R3J6SlJEMk5XX2pscTBnZTBB?oc=5",
+                    "publisher": "네이트",
+                    "published_at": "2026-02-24 17:26",
+                    "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+                    "collected_at": "2026-02-25 14:03"
+                }
+            ]
+        }
+    }
+}

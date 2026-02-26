@@ -1,0 +1,82 @@
+[
+    {
+        "keyword": "문상민",
+        "avg_view_count": 792023.7,
+        "avg_like_count": 46290.7,
+        "avg_comment_count": 400.0,
+        "engagement_rate": 5.9,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "keyword": "홍자",
+        "avg_view_count": 26137.7,
+        "avg_like_count": 881.7,
+        "avg_comment_count": 413.3,
+        "engagement_rate": 4.95,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "keyword": "유튜브 문제가 발생했습니다",
+        "avg_view_count": 28194.3,
+        "avg_like_count": 280.3,
+        "avg_comment_count": 192.0,
+        "engagement_rate": 1.68,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "김태리",
+        "avg_view_count": 60132.7,
+        "avg_like_count": 884.3,
+        "avg_comment_count": 58.0,
+        "engagement_rate": 1.57,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "금잔디",
+        "avg_view_count": 180208.7,
+        "avg_like_count": 1918.7,
+        "avg_comment_count": 728.7,
+        "engagement_rate": 1.47,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "부산찬란한 너의 계절에",
+        "avg_view_count": 15013707.0,
+        "avg_like_count": 169726.0,
+        "avg_comment_count": 2466.7,
+        "engagement_rate": 1.15,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "정동원",
+        "avg_view_count": 1365804.9,
+        "avg_like_count": 10975.8,
+        "avg_comment_count": 619.1,
+        "engagement_rate": 0.85,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "아너 그녀들의 법정",
+        "avg_view_count": 19083.7,
+        "avg_like_count": 121.7,
+        "avg_comment_count": 10.7,
+        "engagement_rate": 0.69,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "파반느",
+        "avg_view_count": 88001.0,
+        "avg_like_count": 463.7,
+        "avg_comment_count": 51.7,
+        "engagement_rate": 0.59,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "윤영경",
+        "avg_view_count": 14133.0,
+        "avg_like_count": 49.3,
+        "avg_comment_count": 13.3,
+        "engagement_rate": 0.44,
+        "temperature_status": "🧊 조회수 위주"
+    }
+]

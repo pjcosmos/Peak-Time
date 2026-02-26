@@ -1,0 +1,82 @@
+[
+    {
+        "keyword": "하이닉스 주가",
+        "avg_view_count": 4491.0,
+        "avg_like_count": 419.7,
+        "avg_comment_count": 5.7,
+        "engagement_rate": 9.47,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "keyword": "에스팀",
+        "avg_view_count": 7985.3,
+        "avg_like_count": 412.7,
+        "avg_comment_count": 45.3,
+        "engagement_rate": 5.74,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "keyword": "액스비스",
+        "avg_view_count": 12225.3,
+        "avg_like_count": 567.7,
+        "avg_comment_count": 36.3,
+        "engagement_rate": 4.94,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "keyword": "비트코인",
+        "avg_view_count": 5411.7,
+        "avg_like_count": 215.7,
+        "avg_comment_count": 16.0,
+        "engagement_rate": 4.28,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "keyword": "케이뱅크 공모주",
+        "avg_view_count": 32763.0,
+        "avg_like_count": 1019.3,
+        "avg_comment_count": 47.7,
+        "engagement_rate": 3.26,
+        "temperature_status": "🔥 펄펄 끓는 찐팬"
+    },
+    {
+        "keyword": "주식",
+        "avg_view_count": 86925.0,
+        "avg_like_count": 1630.0,
+        "avg_comment_count": 357.7,
+        "engagement_rate": 2.29,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "에어로케이",
+        "avg_view_count": 6051.0,
+        "avg_like_count": 95.7,
+        "avg_comment_count": 34.0,
+        "engagement_rate": 2.14,
+        "temperature_status": "♨️ 훈훈한 호감"
+    },
+    {
+        "keyword": "엔화",
+        "avg_view_count": 27395.0,
+        "avg_like_count": 318.3,
+        "avg_comment_count": 68.3,
+        "engagement_rate": 1.41,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "신영자",
+        "avg_view_count": 85214.3,
+        "avg_like_count": 763.0,
+        "avg_comment_count": 93.7,
+        "engagement_rate": 1.01,
+        "temperature_status": "🍃 가벼운 관심"
+    },
+    {
+        "keyword": "김인호",
+        "avg_view_count": 112984.3,
+        "avg_like_count": 992.7,
+        "avg_comment_count": 108.0,
+        "engagement_rate": 0.97,
+        "temperature_status": "🍃 가벼운 관심"
+    }
+]

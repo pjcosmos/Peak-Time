@@ -16,4 +16,6 @@ instaloader==4.11
 
 # Environment & Database
 python-dotenv==1.0.1
-mysql-connector-python==8.3.0
+SQLAlchemy==2.0.36
+psycopg2-binary==2.9.10
+
