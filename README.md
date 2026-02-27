@@ -30,24 +30,4 @@ Peak-Time은 구글 트렌드와 네이버 데이터랩의 검색 데이터를 �
 * **고도화된 미디어 렌더링:** `st.markdown`과 HTML/CSS Flexbox를 활용해, DB에서 불러온 뉴스 기사와 유튜브 영상의 썸네일, 제목, 주요 지표를 완벽한 수평 대칭형 UI 구조로 세련되게 렌더링합니다. Custom CSS로 구글 브랜드 컬러에 맞춘 테마 오버라이딩을 적용했습니다.
 
 ### 5. 원클릭 자동화 파이프라인
-* 데이터 전처리 로직(문자열 파싱, 회귀 계산), 가중치 분석, 4분면 라벨링, 시각화 파일 생성 과정을 `run_pipeline.py` 하나로 묶어 파이프라인을 자동화했습니다.
-
-## 🗄 데이터베이스 구조 (Schema)
-프로젝트는 다수 팀원의 동시 접근 및 수집 시점별 버전 관리를 위해 Railway 클라우드 기반 PostgreSQL을 사용합니다. 데이터 무결성을 위해 모든 정보는 특정 수집 시점(`run_id`) 단위로 종속됩니다.
-
-* `category` / `keyword`: 카테고리 정보 및 유니크 키워드 사전
-* `collection_run`: 특정 일자의 수집 실행 단위 (가장 상위 부모 테이블)
-* `keyword_score`: 키워드별 통합 점수, 플랫폼 점유율, 오션 전략 라벨
-* `trend_series`: 구글 및 네이버의 일간 상대적 검색 추이 라인 차트 데이터
-* `news_article`: 각 키워드와 매핑된 최신 관련 기사 (발행일, 썸네일 URL 포함)
-* `youtube_video`: 유튜브 검색 API에서 가져온 관련 영상 상세 통계 (조회수, 좋아요, 댓글 수)
-
-## 💻 설치 및 실행 방법
-
-### 1. 레포지토리 클론 및 의존성 설치
-Python 3.9 이상의 환경을 권장하며, 데이터 수집을 위한 Chrome WebDriver 환경이 요구됩니다.
-```bash
-git clone [https://github.com/your-username/Peak-Time.git](https://github.com/your-username/Peak-Time.git)
-cd Peak-Time
-pip install -r requirements.txt
-pip install psycopg2-binary
+* 데이터 전처리 로직(문자열 파싱, 회귀 계산), 가중치 분석, 4
